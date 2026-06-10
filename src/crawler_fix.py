@@ -392,7 +392,7 @@ class obs(object):
                              **self.make_args(method, const, bounds),
                              method=method, options={'maxiter': 20000}))
 
-            Qs.append(self.fr / sols[-1].x[1] / 2.)
+            Qs.append(self.fr / sols[-1].x[-1] / 2.)
             chi2.append(self.funQPO2(sols[-1].x))
             print(sols[-1].success)
 
