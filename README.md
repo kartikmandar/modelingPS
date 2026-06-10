@@ -16,11 +16,26 @@ unreliable (uncertainty of the subtracted Poisson level).
 
 ## Usage
 
-Use a Python with numpy/scipy/matplotlib (e.g. the `pspec` conda env):
+Use Pixi for the reproducible project environment:
+
+    # tests (fast)
+    pixi run test-fast
+    # full suite, incl. real fits (~minutes)
+    pixi run test
+
+    # fit all spectra (noise-aware weights) and write results/ products
+    pixi run fit
+
+    # rebuild the QPO-evolution and fit-quality figures
+    pixi run analyze
+
+The underlying commands are still plain Python, so an equivalent environment
+with numpy/scipy/matplotlib/pytest can run them directly:
 
     # fit all spectra (noise-aware weights) and write results/ products
     python src/run_fitting.py --data-dir maxij1820_powspecs \
-        --out results --noise-mode quadrature
+        --out results --noise-mode quadrature \
+        --legacy-txt resu_quadrature.txt
 
     # rebuild the QPO-evolution and fit-quality figures
     python src/run_analysis.py --results results/fit_results.json \
@@ -68,6 +83,7 @@ exactly.
   `qpo_try_search` Q bug was fixed: the QPO width is `x[-1]`, not `x[1]`)
 - `src/crawler_fix _final.py` — untouched collaborators' reference copy
 - `tests/` — pytest suite (`slow` marker = real COBYLA fits)
+- `pixi.toml`, `pixi.lock` — reproducible Pixi environment and task lockfile
 - `results/` — current products: `fit_results.json` (full precision +
   uncertainties), `resu_quadrature.txt` (legacy format), `summary.pdf`,
   `plots/*.pdf`, `qpo_evolution.pdf`, `fit_quality_analysis.pdf`
