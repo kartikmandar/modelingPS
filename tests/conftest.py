@@ -8,11 +8,13 @@ import pytest
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 SRC = REPO_ROOT / 'src'
+LEGACY = REPO_ROOT / 'legacy'
 sys.path.insert(0, str(SRC))
+sys.path.insert(0, str(LEGACY))
 
-from psfit.models import lore  # noqa: E402
+from modelingPS.models import lore  # noqa: E402
 
-DATA_DIR = REPO_ROOT / 'maxij1820_powspecs'
+DATA_DIR = REPO_ROOT / 'data' / 'raw' / 'maxij1820_powspecs'
 
 
 def make_spectrum(params, freq, noise_frac=0.05, seed=42):

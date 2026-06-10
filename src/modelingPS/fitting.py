@@ -1,7 +1,7 @@
 '''Fitting machinery: incremental Lorentzian fits with an F-test stopping
 criterion, plus the two QPO search strategies.
 
-Ported from src/crawler_fix.py keeping the algorithm identical (same
+Ported from legacy/crawler_fix.py keeping the algorithm identical (same
 optimizer, constraints, initial guesses and F-test). The only
 behavioural change is the corrected Q computation in qpo_try_search:
 the QPO width is the last fitted parameter (x[-1]), not the width of

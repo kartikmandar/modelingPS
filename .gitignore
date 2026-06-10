@@ -3,5 +3,5 @@ __pycache__/
 .pytest_cache/
 .pixi/
 docs/
-results/plots/
+outputs/current/plots/
 .claude/settings.local.json

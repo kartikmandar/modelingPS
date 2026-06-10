@@ -1,6 +1,6 @@
 '''Observation container for power spectra.
 
-Loads the 5-column .dat files described in docs/emailConvo.txt
+Loads the 5-column .dat files used by this project
 (frequency, meaningless zeros, power, power error, effective noise
 level) and evaluates sums of Lorentzians against them. The effective
 noise level is the uncertainty floor left by the Poisson-noise

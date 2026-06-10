@@ -1,11 +1,11 @@
-'''Tests for psfit.observation.'''
+'''Tests for modelingPS.observation.'''
 
 import numpy as np
 import pytest
 
 from conftest import DATA_DIR, write_dat
-from psfit.models import lore
-from psfit.observation import Observation
+from modelingPS.models import lore
+from modelingPS.observation import Observation
 
 REAL_FILE = str(DATA_DIR / '1200120101pow.dat')
 

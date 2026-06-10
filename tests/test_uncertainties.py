@@ -1,9 +1,9 @@
-'''Tests for psfit.uncertainties.'''
+'''Tests for modelingPS.uncertainties.'''
 
 import numpy as np
 import pytest
 
-from psfit.uncertainties import (covariance_from_chi2, derived_error,
+from modelingPS.uncertainties import (covariance_from_chi2, derived_error,
                                  hessian, nu_char_error, parameter_errors,
                                  q_factor_error)
 

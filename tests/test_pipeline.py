@@ -4,8 +4,8 @@ import numpy as np
 import pytest
 
 from conftest import DATA_DIR
-from psfit.pipeline import fit_directory, fit_observation
-from psfit.results import load_results
+from modelingPS.pipeline import fit_directory, fit_observation
+from modelingPS.results import load_results
 
 pytestmark = pytest.mark.slow
 

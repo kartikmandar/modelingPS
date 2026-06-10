@@ -1,11 +1,11 @@
-'''Tests for psfit.fitting.'''
+'''Tests for modelingPS.fitting.'''
 
 import numpy as np
 import pytest
 
-from psfit.fitting import (fit, fit_components, lorentzian_constraints,
+from modelingPS.fitting import (fit, fit_components, lorentzian_constraints,
                            make_args, qpo_try_max, qpo_try_search)
-from psfit.observation import Observation
+from modelingPS.observation import Observation
 
 
 @pytest.fixture
@@ -45,7 +45,7 @@ def test_fit_components_structure(synth_obs):
 
 def test_fit_components_matches_legacy_crawler(synth_file):
     # behaviour-preservation regression: the ported incremental fitter
-    # must reproduce src/crawler_fix.py exactly on identical input
+    # must reproduce legacy/crawler_fix.py exactly on identical input
     import crawler_fix
 
     path, _ = synth_file

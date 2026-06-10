@@ -1,8 +1,8 @@
-'''Tests for psfit.models.'''
+'''Tests for modelingPS.models.'''
 
 import numpy as np
 
-from psfit.models import lore, nu_char, q_factor
+from modelingPS.models import lore, nu_char, q_factor
 
 
 def test_lore_peak_at_centroid():

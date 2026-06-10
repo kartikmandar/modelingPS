@@ -1,15 +1,15 @@
-'''Tests for psfit.results.'''
+'''Tests for modelingPS.results.'''
 
 import math
 
-from psfit.results import (FitResult, load_results, obs_num_from_path,
+from modelingPS.results import (FitResult, load_results, obs_num_from_path,
                            save_results, write_legacy_txt)
 
 
 def make_result(obs_num=101, params=(0.42, 1.4, -0.00025)):
     params = list(params)
     return FitResult(
-        infile=f'./maxij1820_powspecs/1200120{obs_num}pow.dat',
+        infile=f'./data/raw/maxij1820_powspecs/1200120{obs_num}pow.dat',
         obs_num=obs_num,
         params=params,
         errors=[0.01, 0.1, float('nan')],
@@ -27,7 +27,7 @@ def make_result(obs_num=101, params=(0.42, 1.4, -0.00025)):
 
 
 def test_obs_num_from_path():
-    assert obs_num_from_path('./maxij1820_powspecs/1200120101pow.dat') == 101
+    assert obs_num_from_path('./data/raw/maxij1820_powspecs/1200120101pow.dat') == 101
     assert obs_num_from_path('1200120197pow.dat') == 197
 
 

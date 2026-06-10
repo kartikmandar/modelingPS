@@ -1,18 +1,20 @@
 # modelingPS — Lorentzian decomposition of MAXI J1820+070 power spectra
 
 Fits sums of Lorentzians to NICER power density spectra of the black-hole
-X-ray binary MAXI J1820+070 (2018 outburst, hard state → HIMS) and tracks
-the type-C QPO through the outburst. Continuation of Yuri Cavecchi's
-Barcelona code; collaboration context in `docs/emailConvo.txt`.
+X-ray binary MAXI J1820+070 (2018 outburst, hard state -> HIMS) and tracks
+the type-C QPO through the outburst. This package is a tested refactor of
+Yuri Cavecchi's Barcelona crawler, with the legacy scripts retained for
+regression comparison.
 
 ## Data
 
-`maxij1820_powspecs/1200120NNNpow.dat` — 88 spectra (NNN = 101–197 with
-gaps at 128, 129, 151, 153–155, 181, 184, 188), 226 bins each after the
-`READ SERR 1 2` header. Columns: frequency, zeros (meaningless), power,
-power error, effective noise level. Normalization (rms/mean)², 2–11 keV,
-Poisson noise subtracted. Signal below the effective noise level is
-unreliable (uncertainty of the subtracted Poisson level).
+`data/raw/maxij1820_powspecs/1200120NNNpow.dat` contains 88 spectra
+(NNN = 101-197 with gaps at 128, 129, 151, 153-155, 181, 184, 188).
+Most files have 226 bins after the `READ SERR 1 2` header; 10 have 210
+bins. Columns are frequency, zeros (meaningless), power, power error and
+effective noise level. Normalization is (rms/mean)^2, 2-11 keV, with
+Poisson noise already subtracted. Signal below the effective noise level
+is unreliable because of uncertainty in the subtracted Poisson level.
 
 ## Usage
 
@@ -23,23 +25,21 @@ Use Pixi for the reproducible project environment:
     # full suite, incl. real fits (~minutes)
     pixi run test
 
-    # fit all spectra (noise-aware weights) and write results/ products
+    # fit all spectra (noise-aware weights) and write outputs/current products
     pixi run fit
 
     # rebuild the QPO-evolution and fit-quality figures
     pixi run analyze
 
-The underlying commands are still plain Python, so an equivalent environment
-with numpy/scipy/matplotlib/pytest can run them directly:
+The package also exposes console scripts when installed in an equivalent
+environment:
 
-    # fit all spectra (noise-aware weights) and write results/ products
-    python src/run_fitting.py --data-dir maxij1820_powspecs \
-        --out results --noise-mode quadrature \
+    modelingps-fit --data-dir data/raw/maxij1820_powspecs \
+        --out outputs/current --noise-mode quadrature \
         --legacy-txt resu_quadrature.txt
 
-    # rebuild the QPO-evolution and fit-quality figures
-    python src/run_analysis.py --results results/fit_results.json \
-        --out-dir results
+    modelingps-analyze --results outputs/current/fit_results.json \
+        --out-dir outputs/current
 
     # tests (fast)
     python -m pytest -m "not slow" -q
@@ -66,29 +66,33 @@ with numpy/scipy/matplotlib/pytest can run them directly:
    single-bin noise spikes) and ≥ 3σ amplitude significance where the
    error is measurable (`--min-width` / `--min-significance`, 0 disables).
 
-The incremental fitter is a verbatim port of the original crawler — a
-regression test asserts bit-identical results against `crawler_fix.py` —
+The incremental fitter is a verbatim port of the original crawler; a
+regression test asserts bit-identical results against `legacy/crawler_fix.py`,
 so `--noise-mode none --search-qpo 0` reproduces the legacy behaviour
 exactly.
 
 ## Layout
 
-- `src/psfit/` — the package: `models` (Lorentzian, ν_char, Q),
+- `src/modelingPS/` — the package: `models` (Lorentzian, ν_char, Q),
   `observation` (data loading + noise modes + χ²), `fitting`
   (incremental fit, F-test, QPO searches), `uncertainties` (Hessian +
   delta method), `results` (JSON + legacy txt), `pipeline` (batch run +
-  plots), `analysis` (QPO evolution + fit quality)
-- `src/run_fitting.py`, `src/run_analysis.py` — CLI runners
-- `src/crawler_fix.py` — legacy monolith (kept working; only the
+  plots), `analysis` (QPO evolution + fit quality), `cli` (console entry
+  points)
+- `pyproject.toml` — package metadata and `modelingps-fit` /
+  `modelingps-analyze` entry points
+- `legacy/crawler_fix.py` — legacy monolith (kept working; only the
   `qpo_try_search` Q bug was fixed: the QPO width is `x[-1]`, not `x[1]`)
-- `src/crawler_fix _final.py` — untouched collaborators' reference copy
+- `legacy/crawler_fix_final.py` — untouched collaborators' reference copy
+- `data/raw/maxij1820_powspecs/` — tracked input spectra (`*.dat`)
+- `data/external/` — original compressed data bundle
 - `tests/` — pytest suite (`slow` marker = real COBYLA fits)
 - `pixi.toml`, `pixi.lock` — reproducible Pixi environment and task lockfile
-- `results/` — current products: `fit_results.json` (full precision +
+- `outputs/current/` — current products: `fit_results.json` (full precision +
   uncertainties), `resu_quadrature.txt` (legacy format), `summary.pdf`,
   `plots/*.pdf`, `qpo_evolution.pdf`, `fit_quality_analysis.pdf`
-- `results_legacy_weights/` — same pipeline with `--noise-mode none`
+- `outputs/legacy_weights/` — same pipeline with `--noise-mode none`
   for comparison
-- `resu_reb.txt`, `summa_reb.pdf`, `maxij1820_powspecs/*.pdf` and the
-  root-level `qpo_evolution.pdf` / `fit_quality_analysis.pdf` — frozen
-  February 2026 reference run from the pre-refactor crawler
+- `outputs/reference_legacy/` — frozen February 2026 reference run from the
+  pre-refactor crawler, including the old per-observation PDFs
+- `docs/` — local ignored notes/research, intentionally not part of git

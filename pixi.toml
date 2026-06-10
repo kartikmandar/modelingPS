@@ -9,9 +9,13 @@ numpy = "==2.3.5"
 scipy = "==1.17.1"
 matplotlib = "==3.10.8"
 pytest = "==8.4.2"
+hatchling = ">=1.27,<2"
+
+[pypi-dependencies]
+modelingPS = { path = ".", editable = true }
 
 [tasks]
 test-fast = { cmd = "python -m pytest -m 'not slow' -q", description = "Run tests that do not perform real COBYLA fits." }
 test = { cmd = "python -m pytest -q", description = "Run the full test suite, including slow real-fit checks." }
-fit = { cmd = "python src/run_fitting.py --data-dir maxij1820_powspecs --out results --noise-mode quadrature --legacy-txt resu_quadrature.txt", description = "Fit all spectra with noise-aware quadrature weights." }
-analyze = { cmd = "python src/run_analysis.py --results results/fit_results.json --out-dir results", description = "Rebuild QPO-evolution and fit-quality figures." }
+fit = { cmd = "modelingps-fit --data-dir data/raw/maxij1820_powspecs --out outputs/current --noise-mode quadrature --legacy-txt resu_quadrature.txt", description = "Fit all spectra with noise-aware quadrature weights." }
+analyze = { cmd = "modelingps-analyze --results outputs/current/fit_results.json --out-dir outputs/current", description = "Rebuild QPO-evolution and fit-quality figures." }

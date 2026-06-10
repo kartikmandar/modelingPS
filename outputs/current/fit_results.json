@@ -1,6 +1,6 @@
 {
   "meta": {
-    "data_dir": "maxij1820_powspecs",
+    "data_dir": "data/raw/maxij1820_powspecs",
     "pattern": "*pow.dat",
     "noise_mode": "quadrature",
     "search_qpo": 2,
@@ -8,7 +8,7 @@
   },
   "results": [
     {
-      "infile": "maxij1820_powspecs/1200120101pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120101pow.dat",
       "obs_num": 101,
       "params": [
         0.23909336564345438,
@@ -64,7 +64,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120102pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120102pow.dat",
       "obs_num": 102,
       "params": [
         0.43776127680364657,
@@ -114,7 +114,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120103pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120103pow.dat",
       "obs_num": 103,
       "params": [
         0.45215088028007494,
@@ -164,7 +164,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120104pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120104pow.dat",
       "obs_num": 104,
       "params": [
         0.4449108249237991,
@@ -214,7 +214,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120105pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120105pow.dat",
       "obs_num": 105,
       "params": [
         0.4484700992428336,
@@ -258,7 +258,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120106pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120106pow.dat",
       "obs_num": 106,
       "params": [
         0.3611062391878783,
@@ -308,7 +308,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120107pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120107pow.dat",
       "obs_num": 107,
       "params": [
         0.35544427934110917,
@@ -358,7 +358,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120108pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120108pow.dat",
       "obs_num": 108,
       "params": [
         0.356197012570332,
@@ -402,7 +402,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120109pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120109pow.dat",
       "obs_num": 109,
       "params": [
         0.35195120151582265,
@@ -446,7 +446,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120110pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120110pow.dat",
       "obs_num": 110,
       "params": [
         0.3446994644623193,
@@ -502,7 +502,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120111pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120111pow.dat",
       "obs_num": 111,
       "params": [
         0.3561020239766675,
@@ -546,7 +546,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120112pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120112pow.dat",
       "obs_num": 112,
       "params": [
         0.35001832213523476,
@@ -602,7 +602,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120113pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120113pow.dat",
       "obs_num": 113,
       "params": [
         0.35924945775268596,
@@ -652,7 +652,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120114pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120114pow.dat",
       "obs_num": 114,
       "params": [
         0.35314719775742487,
@@ -696,7 +696,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120115pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120115pow.dat",
       "obs_num": 115,
       "params": [
         0.35653672016053406,
@@ -740,7 +740,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120116pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120116pow.dat",
       "obs_num": 116,
       "params": [
         0.35061497346687565,
@@ -784,7 +784,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120117pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120117pow.dat",
       "obs_num": 117,
       "params": [
         0.3554426063007437,
@@ -828,7 +828,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120118pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120118pow.dat",
       "obs_num": 118,
       "params": [
         0.3513689950514108,
@@ -872,7 +872,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120119pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120119pow.dat",
       "obs_num": 119,
       "params": [
         0.3423323112697222,
@@ -916,7 +916,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120120pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120120pow.dat",
       "obs_num": 120,
       "params": [
         0.33845891111678034,
@@ -960,7 +960,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120121pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120121pow.dat",
       "obs_num": 121,
       "params": [
         0.3429016023501306,
@@ -1004,7 +1004,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120122pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120122pow.dat",
       "obs_num": 122,
       "params": [
         0.34012780892920347,
@@ -1048,7 +1048,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120123pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120123pow.dat",
       "obs_num": 123,
       "params": [
         0.3516265746127042,
@@ -1092,7 +1092,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120124pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120124pow.dat",
       "obs_num": 124,
       "params": [
         0.3071199743392681,
@@ -1136,7 +1136,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120125pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120125pow.dat",
       "obs_num": 125,
       "params": [
         0.33044507062399864,
@@ -1180,7 +1180,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120126pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120126pow.dat",
       "obs_num": 126,
       "params": [
         0.3436252774168957,
@@ -1230,7 +1230,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120127pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120127pow.dat",
       "obs_num": 127,
       "params": [
         0.3270201899341406,
@@ -1274,7 +1274,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120130pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120130pow.dat",
       "obs_num": 130,
       "params": [
         0.3070267145308035,
@@ -1318,7 +1318,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120131pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120131pow.dat",
       "obs_num": 131,
       "params": [
         0.3090840819821077,
@@ -1362,7 +1362,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120132pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120132pow.dat",
       "obs_num": 132,
       "params": [
         0.30633280413629377,
@@ -1406,7 +1406,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120133pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120133pow.dat",
       "obs_num": 133,
       "params": [
         0.3053632603751604,
@@ -1450,7 +1450,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120134pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120134pow.dat",
       "obs_num": 134,
       "params": [
         0.29592902519654785,
@@ -1494,7 +1494,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120135pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120135pow.dat",
       "obs_num": 135,
       "params": [
         0.289318373230615,
@@ -1538,7 +1538,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120136pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120136pow.dat",
       "obs_num": 136,
       "params": [
         0.2880343250304457,
@@ -1582,7 +1582,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120137pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120137pow.dat",
       "obs_num": 137,
       "params": [
         0.2856338239631904,
@@ -1626,7 +1626,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120138pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120138pow.dat",
       "obs_num": 138,
       "params": [
         0.28034022063813724,
@@ -1670,7 +1670,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120139pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120139pow.dat",
       "obs_num": 139,
       "params": [
         0.2971001512176592,
@@ -1714,7 +1714,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120140pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120140pow.dat",
       "obs_num": 140,
       "params": [
         0.23983483598754576,
@@ -1770,7 +1770,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120141pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120141pow.dat",
       "obs_num": 141,
       "params": [
         0.2840582084968848,
@@ -1814,7 +1814,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120142pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120142pow.dat",
       "obs_num": 142,
       "params": [
         0.24332281135901915,
@@ -1864,7 +1864,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120143pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120143pow.dat",
       "obs_num": 143,
       "params": [
         0.25333669905283657,
@@ -1914,7 +1914,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120144pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120144pow.dat",
       "obs_num": 144,
       "params": [
         0.2475221376698193,
@@ -1964,7 +1964,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120145pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120145pow.dat",
       "obs_num": 145,
       "params": [
         0.24883189106589534,
@@ -2014,7 +2014,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120146pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120146pow.dat",
       "obs_num": 146,
       "params": [
         0.25042772172368655,
@@ -2064,7 +2064,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120147pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120147pow.dat",
       "obs_num": 147,
       "params": [
         0.22647173492115272,
@@ -2120,7 +2120,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120148pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120148pow.dat",
       "obs_num": 148,
       "params": [
         0.22675104120203438,
@@ -2176,7 +2176,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120149pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120149pow.dat",
       "obs_num": 149,
       "params": [
         0.22810710805265527,
@@ -2232,7 +2232,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120150pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120150pow.dat",
       "obs_num": 150,
       "params": [
         0.18240748063796175,
@@ -2300,7 +2300,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120152pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120152pow.dat",
       "obs_num": 152,
       "params": [
         0.2419543785661672,
@@ -2356,7 +2356,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120156pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120156pow.dat",
       "obs_num": 156,
       "params": [
         0.22636596194988298,
@@ -2412,7 +2412,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120157pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120157pow.dat",
       "obs_num": 157,
       "params": [
         0.21648665008422202,
@@ -2468,7 +2468,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120158pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120158pow.dat",
       "obs_num": 158,
       "params": [
         0.2559171433052787,
@@ -2518,7 +2518,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120159pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120159pow.dat",
       "obs_num": 159,
       "params": [
         0.2782743988296238,
@@ -2562,7 +2562,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120160pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120160pow.dat",
       "obs_num": 160,
       "params": [
         0.25862544484314554,
@@ -2612,7 +2612,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120161pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120161pow.dat",
       "obs_num": 161,
       "params": [
         0.25315878509355777,
@@ -2662,7 +2662,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120162pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120162pow.dat",
       "obs_num": 162,
       "params": [
         0.24129274889150176,
@@ -2712,7 +2712,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120163pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120163pow.dat",
       "obs_num": 163,
       "params": [
         0.21699147515519715,
@@ -2768,7 +2768,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120164pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120164pow.dat",
       "obs_num": 164,
       "params": [
         0.2643543978618912,
@@ -2818,7 +2818,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120165pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120165pow.dat",
       "obs_num": 165,
       "params": [
         0.26710286781048664,
@@ -2868,7 +2868,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120166pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120166pow.dat",
       "obs_num": 166,
       "params": [
         0.23969872926993036,
@@ -2918,7 +2918,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120167pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120167pow.dat",
       "obs_num": 167,
       "params": [
         0.2591375064853981,
@@ -2968,7 +2968,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120168pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120168pow.dat",
       "obs_num": 168,
       "params": [
         0.2831644231005697,
@@ -3012,7 +3012,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120169pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120169pow.dat",
       "obs_num": 169,
       "params": [
         0.26451861632434415,
@@ -3062,7 +3062,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120170pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120170pow.dat",
       "obs_num": 170,
       "params": [
         0.25862616024911067,
@@ -3112,7 +3112,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120171pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120171pow.dat",
       "obs_num": 171,
       "params": [
         0.2470358921988512,
@@ -3162,7 +3162,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120172pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120172pow.dat",
       "obs_num": 172,
       "params": [
         0.2707860805276004,
@@ -3212,7 +3212,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120173pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120173pow.dat",
       "obs_num": 173,
       "params": [
         0.25783109971847756,
@@ -3262,7 +3262,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120174pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120174pow.dat",
       "obs_num": 174,
       "params": [
         0.26849456292523205,
@@ -3312,7 +3312,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120175pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120175pow.dat",
       "obs_num": 175,
       "params": [
         0.27840097248074475,
@@ -3362,7 +3362,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120176pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120176pow.dat",
       "obs_num": 176,
       "params": [
         0.26063614805197355,
@@ -3412,7 +3412,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120177pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120177pow.dat",
       "obs_num": 177,
       "params": [
         0.3081552695864206,
@@ -3456,7 +3456,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120178pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120178pow.dat",
       "obs_num": 178,
       "params": [
         0.2661246608984803,
@@ -3506,7 +3506,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120179pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120179pow.dat",
       "obs_num": 179,
       "params": [
         0.3125135573021697,
@@ -3550,7 +3550,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120180pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120180pow.dat",
       "obs_num": 180,
       "params": [
         0.27042263272187467,
@@ -3600,7 +3600,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120182pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120182pow.dat",
       "obs_num": 182,
       "params": [
         0.2622025727825138,
@@ -3650,7 +3650,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120183pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120183pow.dat",
       "obs_num": 183,
       "params": [
         0.30315188654388153,
@@ -3694,7 +3694,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120185pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120185pow.dat",
       "obs_num": 185,
       "params": [
         0.27476436414358024,
@@ -3750,7 +3750,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120186pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120186pow.dat",
       "obs_num": 186,
       "params": [
         0.2662770591303944,
@@ -3800,7 +3800,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120187pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120187pow.dat",
       "obs_num": 187,
       "params": [
         0.30429418277001113,
@@ -3844,7 +3844,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120189pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120189pow.dat",
       "obs_num": 189,
       "params": [
         0.2314860011019679,
@@ -3900,7 +3900,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120190pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120190pow.dat",
       "obs_num": 190,
       "params": [
         0.2301373664551534,
@@ -3956,7 +3956,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120191pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120191pow.dat",
       "obs_num": 191,
       "params": [
         0.24573856726217433,
@@ -4006,7 +4006,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120192pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120192pow.dat",
       "obs_num": 192,
       "params": [
         0.2478675922885666,
@@ -4056,7 +4056,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120193pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120193pow.dat",
       "obs_num": 193,
       "params": [
         0.19464213030643143,
@@ -4118,7 +4118,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120194pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120194pow.dat",
       "obs_num": 194,
       "params": [
         0.46949079870851024,
@@ -4162,7 +4162,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120195pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120195pow.dat",
       "obs_num": 195,
       "params": [
         0.2932700211558599,
@@ -4200,7 +4200,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120196pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120196pow.dat",
       "obs_num": 196,
       "params": [
         0.2757448596961528,
@@ -4238,7 +4238,7 @@
       }
     },
     {
-      "infile": "maxij1820_powspecs/1200120197pow.dat",
+      "infile": "data/raw/maxij1820_powspecs/1200120197pow.dat",
       "obs_num": 197,
       "params": [
         0.11526910813286616,

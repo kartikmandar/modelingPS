@@ -1,11 +1,11 @@
-'''Tests for psfit.analysis.'''
+'''Tests for modelingPS.analysis.'''
 
 import numpy as np
 import pytest
 
-from psfit.analysis import (fit_quality_figure, identify_qpos,
+from modelingPS.analysis import (fit_quality_figure, identify_qpos,
                             qpo_evolution_figure)
-from psfit.results import FitResult
+from modelingPS.results import FitResult
 
 
 def qpo_dict(Q=5.0, r=0.1, D=0.05, nu0=0.5):

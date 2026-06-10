@@ -706,7 +706,7 @@ if __name__ == '__main__':
     # Powell   not so good either
     meth = 'COBYLA' 
 
-    dira = './maxij1820_powspecs/'
+    dira = './data/raw/maxij1820_powspecs/'
 
     filelist = sorted(glob.glob(dira + pre + '*' + pos + '.dat'))
 
