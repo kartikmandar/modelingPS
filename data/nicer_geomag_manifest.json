@@ -1,0 +1,3430 @@
+{
+ "bucket": "s3://nasa-heasarc",
+ "files": {
+  "dst.orig/dst-kyoto.txt": {
+   "downloaded_at": "2026-07-30T05:37:05+0530",
+   "key": "caldb/data/gen/pcf/geomag/dst.orig/dst-kyoto.txt",
+   "s3_etag": "9940171e66e72c39ec6edba8075eeec8-2",
+   "s3_last_modified": "2023-09-15T15:15:55.000Z",
+   "sha256": "4adf2392cb01288c2928799f56dacddb3d98a23dfaff49c61faa8f601cf3927a",
+   "size": 9865372
+  },
+  "dst.orig/dst_kyoto.fits": {
+   "downloaded_at": "2026-07-30T05:37:03+0530",
+   "key": "caldb/data/gen/pcf/geomag/dst.orig/dst_kyoto.fits",
+   "s3_etag": "ff522a3091aeb4532daa2648ef4f763a",
+   "s3_last_modified": "2023-09-15T15:16:00.000Z",
+   "sha256": "7f1da56affc40438b62c1522c84b4ff545f16b425355b69ea68bb97de16d47d4",
+   "size": 5811840
+  },
+  "dst/dst-kyoto.txt": {
+   "downloaded_at": "2026-07-30T05:37:04+0530",
+   "key": "caldb/data/gen/pcf/geomag/dst/dst-kyoto.txt",
+   "s3_etag": "4494c868c19a65025fd5132caa8fef47-2",
+   "s3_last_modified": "2026-07-25T05:01:57.000Z",
+   "sha256": "1be1cf37e93952a3e7b79ce2be16dd1e1b0f01e84dd544b0c656d655ba2a44c6",
+   "size": 10366005
+  },
+  "dst/dst_kyoto.fits": {
+   "downloaded_at": "2026-07-30T05:37:03+0530",
+   "key": "caldb/data/gen/pcf/geomag/dst/dst_kyoto.fits",
+   "s3_etag": "06cbe933486baabb40f79c6184f7d982",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "f71db17d9ed2d9c5e3bff8999596ccbb4983ab9b51d8d9c64d830da413215604",
+   "size": 6108480
+  },
+  "dst_kyoto.fits": {
+   "downloaded_at": "2026-07-30T05:37:04+0530",
+   "key": "caldb/data/gen/pcf/geomag/dst_kyoto.fits",
+   "s3_etag": "06cbe933486baabb40f79c6184f7d982",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "f71db17d9ed2d9c5e3bff8999596ccbb4983ab9b51d8d9c64d830da413215604",
+   "size": 6108480
+  },
+  "f107/F107_1947_1996.txt": {
+   "downloaded_at": "2026-07-30T05:37:02+0530",
+   "key": "caldb/data/gen/pcf/geomag/f107/F107_1947_1996.txt",
+   "s3_etag": "72d54ec44f5dd024c030f3607c441703",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "60c51e8878dc70561e615b5cefb26315c201116fe4560799ec19237bed691c61",
+   "size": 1184761
+  },
+  "f107/F107_1996_2007.txt": {
+   "downloaded_at": "2026-07-30T05:37:04+0530",
+   "key": "caldb/data/gen/pcf/geomag/f107/F107_1996_2007.txt",
+   "s3_etag": "da49cfee2f91f8543efdd53b6ae0297e",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "2d2cee97e88f30fb97ce942752acbde6efb2287824318a176af17f00f0b411b5",
+   "size": 1047568
+  },
+  "f107/F107_current.txt": {
+   "downloaded_at": "2026-07-30T05:37:04+0530",
+   "key": "caldb/data/gen/pcf/geomag/f107/F107_current.txt",
+   "s3_etag": "33170dd55da2ea6915262d38ab56bd82",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "d8a81b391459c2477111c482fdfdd27f1a55602bc3dd104af606064bb0bef9c4",
+   "size": 131678
+  },
+  "f107/f107-ca.txt": {
+   "downloaded_at": "2026-07-30T05:37:05+0530",
+   "key": "caldb/data/gen/pcf/geomag/f107/f107-ca.txt",
+   "s3_etag": "668fdf9d3758668806d162534a00ecf2",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "c4fbf15ef3bb6425343f71af420baf1009e49be3eefc1f9246daddcbacaa6495",
+   "size": 2255264
+  },
+  "f107/f107_petincton.fits": {
+   "downloaded_at": "2026-07-30T05:37:06+0530",
+   "key": "caldb/data/gen/pcf/geomag/f107/f107_petincton.fits",
+   "s3_etag": "24b59a0ad0acf898fe00544e456cda6a",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "d15dbce3003ec9eacd2a2e9521b286a561607184afb245991a567e2cc058d092",
+   "size": 1033920
+  },
+  "f107/fluxtable.txt": {
+   "downloaded_at": "2026-07-30T05:37:06+0530",
+   "key": "caldb/data/gen/pcf/geomag/f107/fluxtable.txt",
+   "s3_etag": "4964ab131dcf1e9ab53a8cf77cd98c48",
+   "s3_last_modified": "2024-08-03T05:01:01.000Z",
+   "sha256": "7d959b68f20f23ad95e517b6235e76bf4558da9c0b2e4e5d25e58f9dd35c35da",
+   "size": 1966874
+  },
+  "f107_petincton.fits": {
+   "downloaded_at": "2026-07-30T05:37:06+0530",
+   "key": "caldb/data/gen/pcf/geomag/f107_petincton.fits",
+   "s3_etag": "24b59a0ad0acf898fe00544e456cda6a",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "d15dbce3003ec9eacd2a2e9521b286a561607184afb245991a567e2cc058d092",
+   "size": 1033920
+  },
+  "geomag.tar.gz": {
+   "downloaded_at": "2026-07-30T05:37:06+0530",
+   "key": "caldb/data/gen/pcf/geomag/geomag.tar.gz",
+   "s3_etag": "76147a40bc19ec2584a3959daa5c6c76",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "88709539a745c560f0f29eb28fcb04f512981f90f1babbe560b3cd6767d41c6d",
+   "size": 3536797
+  },
+  "kp/kp-potsdam.txt": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp-potsdam.txt",
+   "s3_etag": "6e547321cb27e3df6bf242db9be6ff6c",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "82640533a8557d454dc33465258e80d6fd233f2b1d061d24b82d8fca2e01a345",
+   "size": 2233475
+  },
+  "kp/kp0001.tab": {
+   "downloaded_at": "2026-07-30T05:37:06+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0001.tab",
+   "s3_etag": "d3e84615d580ff4dafe14cac83e93920",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "7c9a5d220f9cd3d4ab06dd50d127b5618fe4ea69bac6faf97be27c64e2195f48",
+   "size": 1676
+  },
+  "kp/kp0002.tab": {
+   "downloaded_at": "2026-07-30T05:37:06+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0002.tab",
+   "s3_etag": "27c3bccbe24b7928af0f0ec942a4ce0c",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "bdf0ededadbf7f70d22b881c18f80c3f24b5d70316d4e30cb672257028f65da8",
+   "size": 1576
+  },
+  "kp/kp0003.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0003.tab",
+   "s3_etag": "9ef892eb6ed6252794257d175db62f88",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "4912e5fe394577b41246a6c2bcc2e823f0512b5f4496c0dbb068d47ddcdf2da5",
+   "size": 1676
+  },
+  "kp/kp0004.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0004.tab",
+   "s3_etag": "1f9659815da9bc5719e92ee7d9cc07df",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "07eda89470436852208b21e711cfa87ca738e2fe2e7bc1f6ee4c8960a305a1dd",
+   "size": 1626
+  },
+  "kp/kp0005.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0005.tab",
+   "s3_etag": "2802184479c4558d87bdb8f27d99b4e0",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "bcc49d4c22d4a68243d1143d4a7f15307aec868d617c1c1c2ec05718051d787e",
+   "size": 1676
+  },
+  "kp/kp0006.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0006.tab",
+   "s3_etag": "6075d06b5e6c06cd43bcf272c6cf83f0",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "11129141bd0146c953c5bd1c38f76eebd31289fb7cf81a8883dd179b9398cc13",
+   "size": 1626
+  },
+  "kp/kp0007.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0007.tab",
+   "s3_etag": "480443711d6e5b04757894ca822cd1b6",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "eb08433bd29657c790657730c145c0be38bb4274d67691af876196225e844c9a",
+   "size": 1676
+  },
+  "kp/kp0008.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0008.tab",
+   "s3_etag": "c4a032303fc31c1d721151aa727907fc",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "bbfaed3fda790fcd7da130fed25be85477c9abfcfa620700d93cd31ace66da99",
+   "size": 1676
+  },
+  "kp/kp0009.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0009.tab",
+   "s3_etag": "696bcb13f6b37fd8901c4681d935483b",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "53c18a86107861d98b04d1932d0594236b6f49a5f2fce8eca82fd7c5e8b912b7",
+   "size": 1626
+  },
+  "kp/kp0010.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0010.tab",
+   "s3_etag": "1f7064808f2bf3989a62ac8c0cb6d8a7",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "3315dd5cc30b984fc39e60902aa7b6c2cab2d8fcc1af9b0704c1ba5d015a74e1",
+   "size": 1676
+  },
+  "kp/kp0011.tab": {
+   "downloaded_at": "2026-07-30T05:37:07+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0011.tab",
+   "s3_etag": "2303554ab90a42fde872344f4046807e",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "6fcc94b69a0f848e16c1943d1d6c94c3a5452ffeb9680ffa588ed24b667352ee",
+   "size": 1626
+  },
+  "kp/kp0012.tab": {
+   "downloaded_at": "2026-07-30T05:37:08+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0012.tab",
+   "s3_etag": "59b9a649d6ecd5bc1cf9f31cfa193924",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "f7be33c0dbd5fdbbb292a82626f538f42986d6bfbb99d4ca622447cb6831efd1",
+   "size": 1676
+  },
+  "kp/kp0101.tab": {
+   "downloaded_at": "2026-07-30T05:37:08+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0101.tab",
+   "s3_etag": "baaf0d2066955cf2c7f18326162c560f",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "9ec07f49b14f41b472dd85b95f28d4f86c1f68be54677d13c769ed8fb08f231d",
+   "size": 1676
+  },
+  "kp/kp0102.tab": {
+   "downloaded_at": "2026-07-30T05:37:08+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0102.tab",
+   "s3_etag": "2089ff2e0775bf6762579a8507388fa4",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "17a8f4dd42a3f189488f64405bccce02ab2d155646018bb5d82c4dd018d4c591",
+   "size": 1526
+  },
+  "kp/kp0103.tab": {
+   "downloaded_at": "2026-07-30T05:37:08+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0103.tab",
+   "s3_etag": "955e4c6c96d19e85db241f622d0759bf",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "907e5368b47c5ea15944fa6f3dba87a99c0954463b9d9c5275dff60e51036b93",
+   "size": 1676
+  },
+  "kp/kp0104.tab": {
+   "downloaded_at": "2026-07-30T05:37:08+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0104.tab",
+   "s3_etag": "f0a284ac1480d9d6b5b94c9de3dd5e7d",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "9a028e133fdef5ae0cccb4cceacfbccfd647c0958e1e663a428f4c13f2b34961",
+   "size": 1626
+  },
+  "kp/kp0105.tab": {
+   "downloaded_at": "2026-07-30T05:37:08+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0105.tab",
+   "s3_etag": "d3ccc37001822269b17e77f0532ba744",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "9830a0315cb490f8f161c64db9989f1eb122882b319c4193ba0390e01223d3be",
+   "size": 1676
+  },
+  "kp/kp0106.tab": {
+   "downloaded_at": "2026-07-30T05:37:08+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0106.tab",
+   "s3_etag": "985fa0b354a5c9e12cd1b32fd3a125c1",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "6882a69c1a3ec2d8d9f11fa8b9cbad0a2b874cd4665eb39d3854ea51ad8871d6",
+   "size": 1626
+  },
+  "kp/kp0107.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0107.tab",
+   "s3_etag": "0683301ed40e3c8eafc86b800d6d0b27",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "02821356fffb42b9caea5860ae2bfe1693f784ad4285cf16954a9155c7f7ec87",
+   "size": 1676
+  },
+  "kp/kp0108.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0108.tab",
+   "s3_etag": "fd63a3f5bf35d70fdb854c8308f9c8a9",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "5a2c9e42a7cf4b91cf279daa621a1b8f3c2e5ad01df64e44cade4f24b1656631",
+   "size": 1676
+  },
+  "kp/kp0109.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0109.tab",
+   "s3_etag": "3d92671f7d2fe920e88a6bc011e8b27f",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "00c61a54647fa9c3d858c0eae61ab4b617fe93cd97ede6df8d644bbd1e2d6bc5",
+   "size": 1626
+  },
+  "kp/kp0110.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0110.tab",
+   "s3_etag": "5f2c5d3834af6778d4e09de3c3dd21b8",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "993cc44d06b743bae4e248392a61c3cc331ac9e5c07cfb29182960bb3ecd2321",
+   "size": 1676
+  },
+  "kp/kp0111.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0111.tab",
+   "s3_etag": "35085a71da02aebf81c96ae42a09af1c",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "0a3294557bd5582a934bd924b3719c1def8cdb686e06f9887174a3912c586069",
+   "size": 1626
+  },
+  "kp/kp0112.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0112.tab",
+   "s3_etag": "e427e3cb4e6dce9e6cc16d19c86a13ac",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "0b607483d1bb70758cdebc3c230baf2d4c36b121429dfc13fc244404dfe157e7",
+   "size": 1676
+  },
+  "kp/kp0201.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0201.tab",
+   "s3_etag": "c52175873bdac612aa230cecd2afae14",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "b69eb40166b02eaa93c6348bab0cd616013970992aaabfd55d9eb0b2e01c2b50",
+   "size": 1676
+  },
+  "kp/kp0202.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0202.tab",
+   "s3_etag": "6fd137e6c02ad7baa1f81dd365693f61",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "e0f27b3eb3fe11961cb3ee6f528da53cc8c45c82e6bffad37ab6e424cd8f31a6",
+   "size": 1526
+  },
+  "kp/kp0203.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0203.tab",
+   "s3_etag": "a234a69264b15b49a26d6c890b408d50",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "ae2ce82a2d8e46e33447fc34d416cc5e82e9bfeca3e4f285708239b3a8a94062",
+   "size": 1676
+  },
+  "kp/kp0204.tab": {
+   "downloaded_at": "2026-07-30T05:37:09+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0204.tab",
+   "s3_etag": "01caa4ce4b1138bb0190aa381303fda3",
+   "s3_last_modified": "2023-09-15T15:16:07.000Z",
+   "sha256": "799a49f9944072cda2758fa5567c826f5c24d3e45788be9b9670fb694693f96a",
+   "size": 1626
+  },
+  "kp/kp0205.tab": {
+   "downloaded_at": "2026-07-30T05:37:10+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0205.tab",
+   "s3_etag": "70084115f68e8df3d8e0b141deaff59f",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "00570ebd4cd8e5ff37e8a7261ff4457be174ae69952a766591b0b970c85ccbbf",
+   "size": 1676
+  },
+  "kp/kp0206.tab": {
+   "downloaded_at": "2026-07-30T05:37:10+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0206.tab",
+   "s3_etag": "c1fffb32ac2d0139cf3433e75867e99c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "1a63014f9e8fd715d046b6b70796b424e0e140fc6c517e9175a0b5069b3be0c8",
+   "size": 1626
+  },
+  "kp/kp0207.tab": {
+   "downloaded_at": "2026-07-30T05:37:10+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0207.tab",
+   "s3_etag": "470be46c3dd08f2cc156d770ff19f7cc",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "d2328300ad2143a4285a9e9900074927979132b0cff046b2aef89fcf2325f050",
+   "size": 1676
+  },
+  "kp/kp0208.tab": {
+   "downloaded_at": "2026-07-30T05:37:10+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0208.tab",
+   "s3_etag": "a9aabdf9bb32291dcfb50105ab398f78",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "21cf1cb05fb1c01759a567590b2f9c9d279f0b96aaf5d1b582e9a59942c30bd0",
+   "size": 1676
+  },
+  "kp/kp0209.tab": {
+   "downloaded_at": "2026-07-30T05:37:10+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0209.tab",
+   "s3_etag": "574e4a75e8c65c27f8970530711e3775",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3896cd2eb61a4d280ea02630d27e6f3368bd959610091f4c73776c65d8106034",
+   "size": 1626
+  },
+  "kp/kp0210.tab": {
+   "downloaded_at": "2026-07-30T05:37:10+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0210.tab",
+   "s3_etag": "4b2092d95057ce8e8ae887710193e923",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "1ef46b4434581f018420a6e651bee1b7e5d7a1e4fc6f16cc97357885a3c228b1",
+   "size": 1676
+  },
+  "kp/kp0211.tab": {
+   "downloaded_at": "2026-07-30T05:37:10+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0211.tab",
+   "s3_etag": "d90c599809c47990d601fb6ad65e5eab",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "f29ce81c72f1b3742b3470e5074bacc99136c5ace6a4bfdedb20bd743d6773ae",
+   "size": 1626
+  },
+  "kp/kp0212.tab": {
+   "downloaded_at": "2026-07-30T05:37:11+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0212.tab",
+   "s3_etag": "f8a9ac7d12e6f05614990c37cfc7aa24",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "053dee42f00330bd7e4def38cb44caa9b4b236302bb391dc2ef4203134f11344",
+   "size": 1676
+  },
+  "kp/kp0301.tab": {
+   "downloaded_at": "2026-07-30T05:37:11+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0301.tab",
+   "s3_etag": "511202b2479092056c9f179dae6b4aa8",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "d229028d349c5791a650d615adfdad510eb2c28fd6e22a52d8f64ef01a7edda0",
+   "size": 1676
+  },
+  "kp/kp0302.tab": {
+   "downloaded_at": "2026-07-30T05:37:11+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0302.tab",
+   "s3_etag": "7fc713b081154c0ecd0d9b8af37ea0cc",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "440c0abd7189206f78174c7b9e7c49613ca50bfb07c94cabab815075f224b69c",
+   "size": 1526
+  },
+  "kp/kp0303.tab": {
+   "downloaded_at": "2026-07-30T05:37:11+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0303.tab",
+   "s3_etag": "2bfaa42e327850637183dd08fbdcdba4",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "257ef796a44768e2e3264245e7a99aa2d6e9ae73accb83523c6f0a5ffe6e825a",
+   "size": 1676
+  },
+  "kp/kp0304.tab": {
+   "downloaded_at": "2026-07-30T05:37:11+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0304.tab",
+   "s3_etag": "98948d879cb80ec62ad71cb8293d00d0",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "bab74ccf510a5d3fa1a9e3f97cdd696eec6164486ee0766acad182163dac845e",
+   "size": 1626
+  },
+  "kp/kp0305.tab": {
+   "downloaded_at": "2026-07-30T05:37:11+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0305.tab",
+   "s3_etag": "cf4307e60ec522c9ad83da480daaa2d0",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "113b31646f2f9335d1397a00e461e0a1dcf62babf0fb47facd526d70a04aadc4",
+   "size": 1676
+  },
+  "kp/kp0306.tab": {
+   "downloaded_at": "2026-07-30T05:37:11+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0306.tab",
+   "s3_etag": "964329422a278d0daa71e3ff380ad68c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "5eac6b8ea2cc5218f157c1e93f5ca3c6b2676817027b5dd527a95938c5f43e77",
+   "size": 1626
+  },
+  "kp/kp0307.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0307.tab",
+   "s3_etag": "7d61855a117845a00b083e9419695402",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "e6f00adeb55f07453a38f0da9e53e40ca909bb09e92b5acefd1c0a0dde65af31",
+   "size": 1676
+  },
+  "kp/kp0308.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0308.tab",
+   "s3_etag": "d450391b923aace979fa7d66230336f9",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "23df164a596a7de6b4ede3a3ec047ec523f613eba5a1442e882f497fda858db7",
+   "size": 1676
+  },
+  "kp/kp0309.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0309.tab",
+   "s3_etag": "9060780f3aaab1b63a0bc70d9ad04745",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "f4c1dc4605655d8454326ae3201f6e55277ea5f7145ceaee36583ee26e74a771",
+   "size": 1626
+  },
+  "kp/kp0310.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0310.tab",
+   "s3_etag": "3089d9ce4642f2b113cca56c01585854",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "a8658c3a579f4dd34b5174121b0ea8903a85ef42db352418e342ad90ab551eab",
+   "size": 1676
+  },
+  "kp/kp0311.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0311.tab",
+   "s3_etag": "92ba5f0b5442e87550c22f306a879f00",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3b94c34b3ad61705d39034bc9941dfa16749c02eea31d52d1074b7184d8992f7",
+   "size": 1626
+  },
+  "kp/kp0312.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0312.tab",
+   "s3_etag": "349729396b4ced1c2154af22d3e4364e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "520c7efa3e62fe41ab129879fda7d8700c87a55b1682b7a06efcdb01274b31dc",
+   "size": 1676
+  },
+  "kp/kp0401.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0401.tab",
+   "s3_etag": "46f32a8acff06744e0cba7964f4ebeac",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "84b3e97714b68f6f852139a7b1fc687792ed414955d009bde23aefb4e4f465c9",
+   "size": 1676
+  },
+  "kp/kp0402.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0402.tab",
+   "s3_etag": "ebdc78ac9b0b3cdb183b30d592886afe",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "fd2a8b8f492147d082ffc565b1243de1d54f2c22dad662d5c78610e9ce77bd64",
+   "size": 1576
+  },
+  "kp/kp0403.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0403.tab",
+   "s3_etag": "6e2e574d4b1e6dcc7d5adc84fd4c908e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "788a0d0161e762373957179182ad3658909471d68aa13b8a32bab4eedef92df1",
+   "size": 1676
+  },
+  "kp/kp0404.tab": {
+   "downloaded_at": "2026-07-30T05:37:12+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0404.tab",
+   "s3_etag": "f35a8a42c78dc13c4ebca7069c39b915",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "d7408022b870f6d3edfa282b1e95f150ac537d3b9f74c307dfe051d87eb67d97",
+   "size": 1626
+  },
+  "kp/kp0405.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0405.tab",
+   "s3_etag": "96af9667b120ce4b1e6461513592fe64",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "fb14ce5bb57bc76e3e9c2f6a72603e596e6fb69df882e4a13fb44c2688fcc740",
+   "size": 1676
+  },
+  "kp/kp0406.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0406.tab",
+   "s3_etag": "081ecd036c50adac3a49579b45b6366a",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "981c270acc8e1856294b6e1d9a17d2ab6803aaf1ffb83fa8e10934c7b5e4f945",
+   "size": 1626
+  },
+  "kp/kp0407.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0407.tab",
+   "s3_etag": "c8441defc354d61e7ffd8c952abff5f2",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "82bb7734f1686312df76d05ef40af7ec05d3a4d9d38ac75db09ba1262352cf77",
+   "size": 1676
+  },
+  "kp/kp0408.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0408.tab",
+   "s3_etag": "627cddd5cacfe15a5962479c674ac628",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "5838cef54f0956a4726d6f186510b10cfc074ccd6c6df18e56715c80544810a8",
+   "size": 1676
+  },
+  "kp/kp0409.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0409.tab",
+   "s3_etag": "df009f4e43f4deb59ae62a5eca619c3b",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "1d3695745ca6a774b4a0addf603e3d156c296241ca328fe7494994f76313ad9f",
+   "size": 1626
+  },
+  "kp/kp0410.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0410.tab",
+   "s3_etag": "4ae2f85c4787f289353f577bb43b268a",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "8294500456eb1c59090ec671a2257292cb3788e41200bc38de259741dc373af2",
+   "size": 1676
+  },
+  "kp/kp0411.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0411.tab",
+   "s3_etag": "ae7845dd4624e1fa44b05cebd67df456",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "59b631ea774d393b8e8301cf89eda4996432605951673f28bc88565f4b0a8897",
+   "size": 1626
+  },
+  "kp/kp0412.tab": {
+   "downloaded_at": "2026-07-30T05:37:13+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0412.tab",
+   "s3_etag": "362177559ba610d8d4dc47fb70c85820",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "a66a593e22f899d92478c8668b18b2519dfda2dfe587daf0d52614b944a75d37",
+   "size": 1676
+  },
+  "kp/kp0501.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0501.tab",
+   "s3_etag": "157753b100f197475f13b2de2e11a0ec",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3fc029a6051c8c4b1af357152a06592793171aca21a59dd72697965aa3f3284c",
+   "size": 1676
+  },
+  "kp/kp0502.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0502.tab",
+   "s3_etag": "86d8c66a34d43b762da00225510f953b",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "0ea32980e141a8a156f843507a8f16bdf411257ba57055f0feb1889988eebb23",
+   "size": 1526
+  },
+  "kp/kp0503.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0503.tab",
+   "s3_etag": "bd7914e7b4f14ec9393e8a1633445ea8",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "6880af6e63063d650ef7b84f12fddd435aec76596bb8b8cdebb13e2d86cb2842",
+   "size": 1676
+  },
+  "kp/kp0504.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0504.tab",
+   "s3_etag": "7217c7b4ce1d2f9509b12ee540ced66e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "f5e65394c192c1914fbb606262bf2bfa961e1813805012726b674a1006063e86",
+   "size": 1626
+  },
+  "kp/kp0505.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0505.tab",
+   "s3_etag": "12858a75d5b48e9718e014d1f88fe989",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "bb3eb35b4bdf78ddabaf5f612f06f32f4f923e65fa82b53c2b346c90ea161c20",
+   "size": 1676
+  },
+  "kp/kp0506.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0506.tab",
+   "s3_etag": "146f61ea553d4dcb9d80f82efa22ee93",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "ccdde7b64af86f9db5438cb8668804907ec22bb2934f4dd8002ff95727d3f027",
+   "size": 1626
+  },
+  "kp/kp0507.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0507.tab",
+   "s3_etag": "f55185d3577e0220f14df3ea840bc02c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "a3bbc715f2430f2042455c5e291fea00d822003986e0d3aee20ab720be11b71a",
+   "size": 1676
+  },
+  "kp/kp0508.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0508.tab",
+   "s3_etag": "6e419594871f678e7edb4bfcc505593f",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "388b82fa1a82282062ba4c076f49b18d66030c306d5c8793d875eabaa67c3d34",
+   "size": 1676
+  },
+  "kp/kp0509.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0509.tab",
+   "s3_etag": "2883a3580753d0750625ccaa65f7d050",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "c18946d2b457baea6c4fbc2f539e6f05a2a44654c50a744242cb264db775362b",
+   "size": 1626
+  },
+  "kp/kp0510.tab": {
+   "downloaded_at": "2026-07-30T05:37:14+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0510.tab",
+   "s3_etag": "c36b69dce3c0e1b4d50b066317fd7f77",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "315db3fafbb4e87095d93d5bd66ad3149323043705fce9598e22db05939f69a6",
+   "size": 1676
+  },
+  "kp/kp0511.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0511.tab",
+   "s3_etag": "439e9da11529bf8ff9b175d6bd8276ef",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "62ec70006c5168e0535e40c8eccbebc6b7be1b33713b19991fd5f63d4c696baa",
+   "size": 1626
+  },
+  "kp/kp0512.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0512.tab",
+   "s3_etag": "847a59ff7d26e6a66fd3933dbfa5905e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "9337e998d21765b1bbd72a264e95b0a8574d75a45e584293eaa1ec7886ddec27",
+   "size": 1676
+  },
+  "kp/kp0601.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0601.tab",
+   "s3_etag": "ab9f2da6989cb2043f1c84049e283a36",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "7403dc7ba2fb9bbe0275e2e73aa25aa84ee79e2050dbdd4ca72760673621169d",
+   "size": 1676
+  },
+  "kp/kp0602.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0602.tab",
+   "s3_etag": "559e66630157fdfa8b1511e0b8d70f04",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "bb035d151ffc389bac4a1aef5f817914a1daf6999297f89d486524f7f632a915",
+   "size": 1526
+  },
+  "kp/kp0603.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0603.tab",
+   "s3_etag": "d92811798ce90e3a8a45352b36b22fc9",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "39f4546980178526e3073f6e16bb6388e89b26ed36b968b1b1c8421f299692f6",
+   "size": 1676
+  },
+  "kp/kp0604.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0604.tab",
+   "s3_etag": "7cdc496e76436da26bc89b207f0bb1b0",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "cd96bbcb30a76367f85287aeab75932f81ce01982f50bf2ea6bbd0114d9ffb2e",
+   "size": 1626
+  },
+  "kp/kp0605.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0605.tab",
+   "s3_etag": "6d8103d2b461d3d96db7758638f26eee",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "927609fdedce554f3daba3870f8159eee1194294f3fd3dab69bbf4df029937c2",
+   "size": 1676
+  },
+  "kp/kp0606.tab": {
+   "downloaded_at": "2026-07-30T05:37:15+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0606.tab",
+   "s3_etag": "9f85f52c9e0ee89457fb1a10dad8dc12",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "5aee8e96c127bb9fd375df5fd33674950a095850b010bc27326eff75d9f689a5",
+   "size": 1626
+  },
+  "kp/kp0607.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0607.tab",
+   "s3_etag": "7b5f5b32a570d0c345c9e4d7a27c7aa0",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "9efb5a2c14bb3278053de76155391c828b3b3e3eed9f9e74387ba1a74b114d80",
+   "size": 1676
+  },
+  "kp/kp0608.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0608.tab",
+   "s3_etag": "981021eeec012bbbc9b168d1fe4152ad",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "8a8121e9a1926be9108482db9a4bfad5fba0b18ee3ea2149060459ec51ad78a5",
+   "size": 1676
+  },
+  "kp/kp0609.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0609.tab",
+   "s3_etag": "fcdc7ef38b4e67fdd30b137561ab8179",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "c50153077b39448a2aad099fdc4d3b560358210c74c8a9967f539ac845520896",
+   "size": 1626
+  },
+  "kp/kp0610.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0610.tab",
+   "s3_etag": "00e1f83005c1b57e9a6f7deedef52ee8",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "ec81c361aeb543cc6678a4d71481b4134200463da9c2bc71684c101613e54d6e",
+   "size": 1676
+  },
+  "kp/kp0611.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0611.tab",
+   "s3_etag": "d7fefb089198a9bd2d396d67c13b713f",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "9f72028007cd68a8850d7f3887c2ef6284f94f05eff333a8a6186869a1249c42",
+   "size": 1626
+  },
+  "kp/kp0612.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0612.tab",
+   "s3_etag": "6e9cf740395e6651d412187c43edd6a9",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "14312a612f1cdc650f5685456bbefb6a5b936ef4124c15158681576e313d75fa",
+   "size": 1676
+  },
+  "kp/kp0701.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0701.tab",
+   "s3_etag": "45d9c1dc9dc765aa96ecaf4250ec0ebc",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "574facf43489d24676ef8e057e78d0a323030ffd20d87ff32dcf40dd8c8d2121",
+   "size": 1676
+  },
+  "kp/kp0702.tab": {
+   "downloaded_at": "2026-07-30T05:37:16+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0702.tab",
+   "s3_etag": "11b325ef8129ce30da4477e0e486076d",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "04462ec8722551088cb3c971fec1d357ea4ac2b63d9bd3ff4756030f98d8ead4",
+   "size": 1526
+  },
+  "kp/kp0703.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0703.tab",
+   "s3_etag": "ee947ba6bd44f66b0dbd0ba552784c9d",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "09c46b7dc31101dfb335f2c3ee49cfac7a00f7edbc12a8caf18e1d92fd7673ad",
+   "size": 1676
+  },
+  "kp/kp0704.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0704.tab",
+   "s3_etag": "662b63e8ec949d754be80689461502db",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "9b8709dd9396d8c1ca3460de854325548284a4a6be3a697dc2254e9a9a75bb9a",
+   "size": 1626
+  },
+  "kp/kp0705.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0705.tab",
+   "s3_etag": "daec7980c764ab2e9c16c440430fc1ef",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "67849652fd4c763e105f566efa9317771521432efcefd48471d4e62557d9c583",
+   "size": 1676
+  },
+  "kp/kp0706.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0706.tab",
+   "s3_etag": "871026edd9a4e3980b2e01fad10e9ece",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "0eadac6933f89ccebd08881fbce024444980dcd6c75e9d049307b3a42319ce16",
+   "size": 1626
+  },
+  "kp/kp0707.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0707.tab",
+   "s3_etag": "d9fa5f52afac25ecae625b99a901e727",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "78f5b1a185825a3f7bc31c13ca71ca1de2f1a1ff74f3bfe3b8820a505f1bee6f",
+   "size": 1676
+  },
+  "kp/kp0708.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0708.tab",
+   "s3_etag": "a6a043c363890b868ae2b63cb58c7e1e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "456ce3e6eab9a5b8f2e1df15c2536a04d206c7784ec4a6763f9876ebb90d648f",
+   "size": 1676
+  },
+  "kp/kp0709.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0709.tab",
+   "s3_etag": "5877c04791ab302e2dd574b91a8a2e90",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "a26897169167f8c655e6411fb536a59f157852ba861fb8cf3625e01bcbe1770e",
+   "size": 1626
+  },
+  "kp/kp0710.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0710.tab",
+   "s3_etag": "9128e8f42f27700a40949689d915ccb5",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "aed673ce2d82927f0d09b39989d93560529bf0ae2d9422ffafdc30cdde04856f",
+   "size": 1676
+  },
+  "kp/kp0711.tab": {
+   "downloaded_at": "2026-07-30T05:37:17+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0711.tab",
+   "s3_etag": "0d7db8cb1ce920d42c32676101a05180",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "b641afd3ef1a9d85f13850c5db8a8380e2a35931947964bc36bbaf519fd2c9f4",
+   "size": 1626
+  },
+  "kp/kp0712.tab": {
+   "downloaded_at": "2026-07-30T05:37:18+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0712.tab",
+   "s3_etag": "b20f7e1a4b3c3ecf8dd33b924838c1ea",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "2e72676ece120aa14a2c2d47ff2e626d3205d444775e7707fa687e82e17424dd",
+   "size": 1676
+  },
+  "kp/kp0801.tab": {
+   "downloaded_at": "2026-07-30T05:37:18+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0801.tab",
+   "s3_etag": "cc959108eb7ccda2bf12b0943aa95c53",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "c56ce6fd9059b8d2532659599cb0365025eb7231aa996884ec36b394983f405f",
+   "size": 1676
+  },
+  "kp/kp0802.tab": {
+   "downloaded_at": "2026-07-30T05:37:18+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0802.tab",
+   "s3_etag": "490cecd53149abcb5a2f719488992063",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "0131df9eea40251b3df2579ba1ff47f16943a94ff23b4c690f121fd2c08f56ab",
+   "size": 1576
+  },
+  "kp/kp0803.tab": {
+   "downloaded_at": "2026-07-30T05:37:18+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0803.tab",
+   "s3_etag": "7a056d622ff579f348131cc4c10f49f5",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "51d476501e6eb6d2a6d16c0fa72fbc74bced5289dace6b8a4dee63c97ad0f779",
+   "size": 1676
+  },
+  "kp/kp0804.tab": {
+   "downloaded_at": "2026-07-30T05:37:18+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0804.tab",
+   "s3_etag": "114467c87978ee94dd151e0f09ee2b60",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "bf0851b498570916ee87ca89f7d9c1b2c60dac4a881b85dae4193561fc33f97a",
+   "size": 1626
+  },
+  "kp/kp0805.tab": {
+   "downloaded_at": "2026-07-30T05:37:18+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0805.tab",
+   "s3_etag": "e8d2c5e9e7df3d811706d8cd853a9135",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "6482fffde1f226a5fce7cf802a35ff3e914d8dd0f1da8a7d8a0f7ead2494b146",
+   "size": 1676
+  },
+  "kp/kp0806.tab": {
+   "downloaded_at": "2026-07-30T05:37:18+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0806.tab",
+   "s3_etag": "0513628ba9106e0847699efeeb5890e7",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "ed93dc2f0ab6d4c5217591f2227ecf0b4fdd9e9d1f5d5eccd67a62fb3c5465cd",
+   "size": 1626
+  },
+  "kp/kp0807.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0807.tab",
+   "s3_etag": "f0b74fc178a18194676340c13353fe12",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "30ebc8c0c3a2f968dbfaddde26e827e038fffef8b02ee380b78b25b801a1e92c",
+   "size": 1676
+  },
+  "kp/kp0808.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0808.tab",
+   "s3_etag": "d59f1487a720f28f6e1fcbfe6a87533a",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3f195a832b6ca035a4e52cd3f05f52b6e1bbcb5c91788299bc323f475252110e",
+   "size": 1676
+  },
+  "kp/kp0809.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0809.tab",
+   "s3_etag": "0619adc08f25cc52ea9b8ac79104d440",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "2e3002eaf352186192b497f25b6e29eef242afc3c6785e478d9f283b53cbf3b7",
+   "size": 1626
+  },
+  "kp/kp0810.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0810.tab",
+   "s3_etag": "23b182144b7b053b97a33a4ebfe871d1",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "bcd4cc6c329a06eafba54294fb29ede6c6010045c64ca2f8a4f6367264dd3c5a",
+   "size": 1676
+  },
+  "kp/kp0811.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0811.tab",
+   "s3_etag": "be34d6b5adc14600cd9e63516ea4e085",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "177776817fac0ffb2e9bec001d4e6fff1d38caed35f2ee05a698fa12d70bac5c",
+   "size": 1626
+  },
+  "kp/kp0812.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0812.tab",
+   "s3_etag": "3658cd176313ff6b52d81a72b13d2679",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "e61096812d9cd48df0a0c42e0a2a5bba4ac16ae2c9194d570846cc1bd8b58ee0",
+   "size": 1676
+  },
+  "kp/kp0901.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0901.tab",
+   "s3_etag": "ccce66bf5675d033d44e3a87e056aa08",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "7e7531545870a3eef668394b8f25e85a5fc66237016483c2f08dd26107a6d567",
+   "size": 1676
+  },
+  "kp/kp0902.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0902.tab",
+   "s3_etag": "ca41d61737ad004ea7a4ad0442004889",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "2f4f48b5a80edd289d4d0aeaffe091926755e6689111db3c75b8f9ef3c98b7f5",
+   "size": 1526
+  },
+  "kp/kp0903.tab": {
+   "downloaded_at": "2026-07-30T05:37:19+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0903.tab",
+   "s3_etag": "6a341b67178cb0833d2aa6574327aacd",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "95c6c7fbd202f734aec42b0bec23cbe4a0447bd524c49396930c2ccdb8c06673",
+   "size": 1676
+  },
+  "kp/kp0904.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0904.tab",
+   "s3_etag": "1a21473532c1cd9d70279b25b969820c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "d14ed6e4b6c7d3ddcb1887b394b47ad3fbf02392187c6001392b954f687abd04",
+   "size": 1626
+  },
+  "kp/kp0905.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0905.tab",
+   "s3_etag": "583663b67aa0eff9afb037dcf975b001",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "491fea7e4f2c4beaf21771eef31aca2ec676f34fcd13fe88f08ce91f5a507585",
+   "size": 1676
+  },
+  "kp/kp0906.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0906.tab",
+   "s3_etag": "ed6a235a794dcc7570e08d7f3b632276",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "17b9290496ce020255361ca21b4c681e6b5cc76ad0cbd3466423cbc43c5d92d5",
+   "size": 1626
+  },
+  "kp/kp0907.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0907.tab",
+   "s3_etag": "da727e628903ebb8f2e75384e0642263",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "c6527e258f0283b2253b82bf94d00e1ed099a1d1b4c3ca6358ad4bbd5cc246ba",
+   "size": 1676
+  },
+  "kp/kp0908.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0908.tab",
+   "s3_etag": "c795ed327b252e9f28754ede26658919",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "5563242f6f5e3183a0a567e16503ce19a27ab0765d6078dd661c3604466b1fa0",
+   "size": 1676
+  },
+  "kp/kp0909.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0909.tab",
+   "s3_etag": "e34f5ba733b2c790a8bfc210e61679af",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "0ae150272f85da0d84b52214418b9debcc886fb9cb92c3438dae6a485304ab4d",
+   "size": 1626
+  },
+  "kp/kp0910.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0910.tab",
+   "s3_etag": "f73c230349484305d4d4b512e8232f3b",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "c5320004b08a7510026d1ad29f9bf4785ea568337b8156922839f20ad8845558",
+   "size": 1676
+  },
+  "kp/kp0911.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0911.tab",
+   "s3_etag": "0979a520b6fd5257050aecdbbc7b0e0d",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "55d65664a8c8f598deb4720ef10ccb6c9f06796c181b45a7dc6c587b2ec33372",
+   "size": 1626
+  },
+  "kp/kp0912.tab": {
+   "downloaded_at": "2026-07-30T05:37:20+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp0912.tab",
+   "s3_etag": "fff52ae4bcc516951d6b3708f9e70bb1",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "ca44b7dd6f3e5732347fd9092f6294ebc9c071652deac9fae947382b271220f1",
+   "size": 1676
+  },
+  "kp/kp1001.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1001.tab",
+   "s3_etag": "da850c2c2ecb94b65bca62197f893abe",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "0075d1f879251d79a8664bdc76f06dd6b59958044e7adc1e5ebf33f0564bf6a6",
+   "size": 1676
+  },
+  "kp/kp1002.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1002.tab",
+   "s3_etag": "ea8f0260e5aeed35653f673c839d4957",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "53477098d62436b41f9b48b8082beefb8efd9c340d3d6048e9946f4f166e979e",
+   "size": 1526
+  },
+  "kp/kp1003.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1003.tab",
+   "s3_etag": "22fe784b5cbfb45f4f398c502805f5bc",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "184d35ec3fb0c78a57895f765fffbac99941d693f4b1553ae112c95d40a68f1f",
+   "size": 1676
+  },
+  "kp/kp1004.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1004.tab",
+   "s3_etag": "22ef8aedb112383c46be3b0fcb74d40e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "372438c949009b6ea20e27559c2ee3545a9733a99b8fe7b08ee0fed85385218f",
+   "size": 1626
+  },
+  "kp/kp1005.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1005.tab",
+   "s3_etag": "d4af2b45b50a86672f4e3099551396ff",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "60cd2d1db4603bf2c8dba1391833e18ea8664631e5f44cfc6e494b7444cedade",
+   "size": 1676
+  },
+  "kp/kp1006.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1006.tab",
+   "s3_etag": "6e518e1e82fbe93514af9eaf13841a07",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "d3c825b70b7be952588651b1cc1ebfb83f30a9f59c017d84dbb1465c03d61d59",
+   "size": 1626
+  },
+  "kp/kp1007.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1007.tab",
+   "s3_etag": "483c19926b6e38e945302b87da202977",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3cf5b6eb8332f9062ce16fab0bb6e64118dfb7f92376512dbae1503b722ab80d",
+   "size": 1676
+  },
+  "kp/kp1008.tab": {
+   "downloaded_at": "2026-07-30T05:37:21+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1008.tab",
+   "s3_etag": "c3142d87836db810fcc9b27d3e1c221c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "671875e1147e91dd770d1d38798531c9183f5b0941d13ee6361a0ff0b8ac72ca",
+   "size": 1676
+  },
+  "kp/kp1009.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1009.tab",
+   "s3_etag": "6ee961752e4a895452e538ddc734cdbb",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "53cdd3ba845a1b510ce26cf7eff93e2ba5fb9064321b59cebec3559fc76ba269",
+   "size": 1626
+  },
+  "kp/kp1010.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1010.tab",
+   "s3_etag": "a7b4e6ba045c69053c2d839d5083b83c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3ea11ad3985227d4b172d412486504956245826a823c6392e25f58fecf4387b2",
+   "size": 1676
+  },
+  "kp/kp1011.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1011.tab",
+   "s3_etag": "444f60d8e8e7ec1e2aefa45a2a2d19a9",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "e256298745e66eddef92cc7e104463387752af3ecf95409b7a643d40da8e5b41",
+   "size": 1626
+  },
+  "kp/kp1012.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1012.tab",
+   "s3_etag": "1858998158a7feb41a05decf8b21fa56",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "e1fbe8b724090c90b17cde3281862c32275155ac179d8d2f41d6949d7a2ade8f",
+   "size": 1676
+  },
+  "kp/kp1101.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1101.tab",
+   "s3_etag": "fa872eae6e87ca4a17d6a016a25c7e8f",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3c4f35d42474e09053c24730bf85d1c393fa3eba1f00e267e8960752fe7ee0ff",
+   "size": 1676
+  },
+  "kp/kp1102.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1102.tab",
+   "s3_etag": "7245467c6e7ce636a592b26ec5657ac5",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "1856a2b40ecaae422c5c3884fe3ec1339bd042e9655f8e0dc0f0741e258932e7",
+   "size": 1526
+  },
+  "kp/kp1103.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1103.tab",
+   "s3_etag": "de81e24cd87486860724a3a3f959076d",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "75980720cfb7385588ccff53040171332b2ea07509949ebae91562389d8be94d",
+   "size": 1676
+  },
+  "kp/kp1104.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1104.tab",
+   "s3_etag": "a924f95118779573e1b38c3d79ec5c0d",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "c9bd264406e7538e2012407b757c0a45046ce6c3c6887307aa672c685d98256d",
+   "size": 1626
+  },
+  "kp/kp1105.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1105.tab",
+   "s3_etag": "3e8351bef1295b78d8c57959374203b6",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "addc06e0df9d762393e3a06456b2e9d60829eed37c1ef9f2eaade924384ed900",
+   "size": 1676
+  },
+  "kp/kp1106.tab": {
+   "downloaded_at": "2026-07-30T05:37:22+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1106.tab",
+   "s3_etag": "2a391cf581aaf3847c1da81fe86db24e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "53309055bf53d2ca441109eeeeac922f785dcb28a9d4e61f4e8a2dbdb0649ede",
+   "size": 1626
+  },
+  "kp/kp1107.tab": {
+   "downloaded_at": "2026-07-30T05:37:23+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1107.tab",
+   "s3_etag": "cb9c0522036dfcd7e57d604e5dca96d7",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "a9e6d87d312e5c264fc5411390ad23694a2e043a6a85406c4420326bd0fd6731",
+   "size": 1676
+  },
+  "kp/kp1108.tab": {
+   "downloaded_at": "2026-07-30T05:37:23+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1108.tab",
+   "s3_etag": "260fd96b7a6fcc6960bade27e776400b",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "f253acfa2ffaf9f8602a69a8a604e85e75296044098e641dd044f5d9bbde6019",
+   "size": 1676
+  },
+  "kp/kp1109.tab": {
+   "downloaded_at": "2026-07-30T05:37:23+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1109.tab",
+   "s3_etag": "67e3276a37d3fe339b72bfa45ea579f2",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "8273e8d0953b5f805deed8d8b5a9662e2b7d196f7011910ed30e43ce022e9e1e",
+   "size": 1626
+  },
+  "kp/kp1110.tab": {
+   "downloaded_at": "2026-07-30T05:37:23+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1110.tab",
+   "s3_etag": "60f7a4f129b07567ad40f724ced6a1c0",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "b8582b1e9929dbc7eecb228d086c8f56af31a804cafecfb6bab60c3643e1799f",
+   "size": 1676
+  },
+  "kp/kp1111.tab": {
+   "downloaded_at": "2026-07-30T05:37:23+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1111.tab",
+   "s3_etag": "8ae8c7036ae12358ec184a347bd986af",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "9312f95f9556a52689d4e07db90ac38d34040c59da1877af2b788269a0626828",
+   "size": 1626
+  },
+  "kp/kp1112.tab": {
+   "downloaded_at": "2026-07-30T05:37:23+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1112.tab",
+   "s3_etag": "e70207f47f627f98988852e67dde6eb3",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "68e5b1a68a43296b24128786af0832c80891082806478382c5ba54ab5f70eb07",
+   "size": 1676
+  },
+  "kp/kp1201.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1201.tab",
+   "s3_etag": "2c915a51776280308d100bc04dfee939",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "02badbf134a7c08751c4ce01cb23c799a771e99166ce4c5075f8b3c9409b3687",
+   "size": 1676
+  },
+  "kp/kp1202.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1202.tab",
+   "s3_etag": "ca34e9c9568351ec7605505925cd57b4",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3f4401b3c3a8f35efba4d1707079c6290827b7063a98d201507372c33b25fa88",
+   "size": 1576
+  },
+  "kp/kp1203.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1203.tab",
+   "s3_etag": "300dc167517ee9cd0b098abeb2b39c65",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "c0d43858f657287c0591598937dffbf012ad1e76f8b227326e36741e6b96dc2b",
+   "size": 1676
+  },
+  "kp/kp1204.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1204.tab",
+   "s3_etag": "b5af973acd199655e0c66d577bc1d4f4",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "266cbe03300fd00940c64789f35dfeebfe8047780e96fca57bdcfa1a71efb025",
+   "size": 1626
+  },
+  "kp/kp1205.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1205.tab",
+   "s3_etag": "e43f3b4db08648c15d4b9a6ae1fd4820",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "30d9a831753a681150222773c583afe9c04a0c42423a7be280d133d00d5333b2",
+   "size": 1676
+  },
+  "kp/kp1206.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1206.tab",
+   "s3_etag": "a5914b5d05d8c6b751bff9b09249ad21",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "33fa913d88f83a6df26077aa5a60e1a08e785ca8b258046a6d3cd74513bba994",
+   "size": 1626
+  },
+  "kp/kp1207.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1207.tab",
+   "s3_etag": "d9e9b43db7b5036891b2961ab0b38c33",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "bd500e3681e192af6df260a013fd820854617f71cd2b1cd2a958a27513c4f3f1",
+   "size": 1676
+  },
+  "kp/kp1208.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1208.tab",
+   "s3_etag": "881a4c9c311ca0ce39d1d4a08d8cd5f5",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "fe41ec31a49ccd1f786e81bca32e44daec30d1f7318855b968fd064502b6c603",
+   "size": 1676
+  },
+  "kp/kp1209.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1209.tab",
+   "s3_etag": "856d463d1a2f89dcff46ae96993ee028",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "645303f7f66621bdc0e59e64bec2ca332f3d5c58d4c0baf31e1ace43635cce94",
+   "size": 1626
+  },
+  "kp/kp1210.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1210.tab",
+   "s3_etag": "572a1c9137b5d2c200480750f2be5f76",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "34da1e324431c358ec4f8346195d62ade75bd356d18c41b8660e02d7a146847f",
+   "size": 1676
+  },
+  "kp/kp1211.tab": {
+   "downloaded_at": "2026-07-30T05:37:24+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1211.tab",
+   "s3_etag": "1bd77fec37a8bd2e1fbfed6eb8a675be",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "964195b1dcee63ddd4921a0d771bac0aa188d0c447b92f0a6c5ef0d96c0b5d4c",
+   "size": 1626
+  },
+  "kp/kp1212.tab": {
+   "downloaded_at": "2026-07-30T05:37:25+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1212.tab",
+   "s3_etag": "560c2a6f467b519ce5319a9fb784a2be",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "3c969f8f3f44594d25b3a979e2f7135d538b9e3e565909248aa5a57afe533365",
+   "size": 1676
+  },
+  "kp/kp1301.tab": {
+   "downloaded_at": "2026-07-30T05:37:25+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1301.tab",
+   "s3_etag": "b1631f4242bcbf7a237368df563bad17",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "d85e2d8bf3e8a4805d2e7341051ee2720db6c9487ffba17db9bf3b9389f8dfd5",
+   "size": 1676
+  },
+  "kp/kp1302.tab": {
+   "downloaded_at": "2026-07-30T05:37:25+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1302.tab",
+   "s3_etag": "3321661a0958add4477bfb127ca32ee2",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "04893d49bd955928a7397ad0899201d49e05bdfe85448cc50aafafce905a26f4",
+   "size": 1526
+  },
+  "kp/kp1303.tab": {
+   "downloaded_at": "2026-07-30T05:37:25+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1303.tab",
+   "s3_etag": "1b4d835b252c35877d9c1c8acce325cf",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "7aefc6e911ee096cfc9dee6f49778279b3d3360002d8c88d05c2db331fe1f1e2",
+   "size": 1676
+  },
+  "kp/kp1304.tab": {
+   "downloaded_at": "2026-07-30T05:37:25+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1304.tab",
+   "s3_etag": "bd37a513591ed31d712897b664704911",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "63b5e8c63fe0dfca209fdb92929087f3b509deff92a4cddae5662e42de637f3f",
+   "size": 1626
+  },
+  "kp/kp1305.tab": {
+   "downloaded_at": "2026-07-30T05:37:25+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1305.tab",
+   "s3_etag": "5457d38e75ea2244b8d4a23bc111316e",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "a2816b8054fb0680204c1d611f5ce01481c2bae608a6f8b2e45fce23eb1a7925",
+   "size": 1676
+  },
+  "kp/kp1306.tab": {
+   "downloaded_at": "2026-07-30T05:37:25+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1306.tab",
+   "s3_etag": "2f6b2dfaccafbcd18337b718b1ec2dff",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "34a57baa199d3b4555f256af07780bcc8c0a90264592525f773e628305a0b252",
+   "size": 1626
+  },
+  "kp/kp1307.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1307.tab",
+   "s3_etag": "306e51b64dbaef77ced54813789b3e80",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "feb3ac09b48fd8e0b0659124d4a6e5681d8369204b3824411db81a2983bf10c0",
+   "size": 1676
+  },
+  "kp/kp1308.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1308.tab",
+   "s3_etag": "c90e9a5aac6488314f0c91d61f5a78e7",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "2d08484f4a99678a8b9f7397aa325f69ffb4874f5f470e4f91eb839b86d4c54f",
+   "size": 1676
+  },
+  "kp/kp1309.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1309.tab",
+   "s3_etag": "f34503329ab05214d9fb24aeecaf9804",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "ef416e83791974608ace35e9bc1847de0bab8aeec44703570f172257baf47591",
+   "size": 1626
+  },
+  "kp/kp1310.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1310.tab",
+   "s3_etag": "999d60d8734fbbc9d5a68628b12a31c2",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "1570664f05b3cd0ab83ac5d5c0f562a0d71df0a862c1274df1958034f990dce8",
+   "size": 1676
+  },
+  "kp/kp1311.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1311.tab",
+   "s3_etag": "a0347d48f36dae2c24eeb6a0ff10c72b",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "238b19ac07732e0431d279ebf3cf81b59a2dc767e531876807b47287b27c8546",
+   "size": 1626
+  },
+  "kp/kp1312.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1312.tab",
+   "s3_etag": "17fc0ac1cb7afa2e5a63524c24e3c8bb",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "22bb617c8afa42310a45e6f156ef5d9b53c597021e5f8f1cc86652cedb3251e9",
+   "size": 1676
+  },
+  "kp/kp1401.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1401.tab",
+   "s3_etag": "e9904d61b17d14ac2e0b4da3d6b24a66",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "d548b026580f1ecd0c88d355927b93a703bf5308c656c8d3fb9dbcb1451d192e",
+   "size": 1676
+  },
+  "kp/kp1402.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1402.tab",
+   "s3_etag": "691cf0d78e1edb4e70d535c60e65fe99",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "30c8b5b561be2abf7e58e0cc6228f1b7ade9744ec8cf23a5586ab2e6f5472ae5",
+   "size": 1526
+  },
+  "kp/kp1403.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1403.tab",
+   "s3_etag": "3dfa6fd1255d492b95860c085cf42b6c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "1c1eb776fafe8f2e90e40f009191b121caa940aee4b82d1a76e750f9e0f23705",
+   "size": 1676
+  },
+  "kp/kp1404.tab": {
+   "downloaded_at": "2026-07-30T05:37:26+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1404.tab",
+   "s3_etag": "e202508162724312e23f4eed50d62660",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "b7be157cb23f07dd2f5edda9a4e31a2da629b005803ae81d83754cf73d00f8a1",
+   "size": 1626
+  },
+  "kp/kp1405.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1405.tab",
+   "s3_etag": "2e615710b515a24c1512569cf683c734",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "ed07df6df6bf85b31aae1d4f35167e7c84ac7841a91121bf266079b05cd7206c",
+   "size": 1676
+  },
+  "kp/kp1406.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1406.tab",
+   "s3_etag": "663385bd710601d2fea5a37a97b09573",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "590b43b56d31dd5c6523e98c6e971efdc409c909b0467008dcc163a0984027cd",
+   "size": 1626
+  },
+  "kp/kp1407.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1407.tab",
+   "s3_etag": "ef9dab0fc8190fe62f29b81433790ca0",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "b62acc6726dd77374ea91a915925fd15f63d5fd82f667842767740d0f8dbc779",
+   "size": 1676
+  },
+  "kp/kp1408.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1408.tab",
+   "s3_etag": "c0c0994285f2b19e8a75f149b4de6bad",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "fadd4a3b1f5621b064d92c432c7ecc37d912873b072f484c838c9906ac90d782",
+   "size": 1676
+  },
+  "kp/kp1409.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1409.tab",
+   "s3_etag": "4dc664d8753e7b7ed6d409aa7f831888",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "904874ae2d0517a93b028809ab9f5340d4559d9a7060d8e3f95834f298bbfd35",
+   "size": 1626
+  },
+  "kp/kp1410.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1410.tab",
+   "s3_etag": "cb411dda5b42424637142078b40c3132",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "56d27e3f0de3d21e462532b72fb826125e12a460a6990bd487c84a9284a01d2f",
+   "size": 1676
+  },
+  "kp/kp1411.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1411.tab",
+   "s3_etag": "3a1913a026d7d598764ccd69c1fbd215",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "a783d7ee026fba5da0ed76478a8a7036217e0a9af2266bacf55763f7a72184a7",
+   "size": 1626
+  },
+  "kp/kp1412.tab": {
+   "downloaded_at": "2026-07-30T05:37:27+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1412.tab",
+   "s3_etag": "54244cb4fdfb556ad50e7d9c7709e1a4",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "5d13e51ee2355876b60a892dc19e2045fe7470a27e497335f8e4df4c88a73f55",
+   "size": 1676
+  },
+  "kp/kp1501.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1501.tab",
+   "s3_etag": "fb66b09e23c025785c17bbb581bef1c8",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "19cb50d03411ada445faa15ba8f0e4429844b9148abdf5046c814431b4e6f6b4",
+   "size": 1676
+  },
+  "kp/kp1502.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1502.tab",
+   "s3_etag": "bc337301bc9b9812e33d16f800d638cb",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "21d4ca688de30cc97c2cfbd48b130f773df41fcb65ec5b9a37ea06d7021e6731",
+   "size": 1526
+  },
+  "kp/kp1503.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1503.tab",
+   "s3_etag": "6ed0824b42b6e13756879184cb982d71",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "94a9d6b21d85931ddddd5b3002945e4ebe21d8c7db09ba4b99ecfe24d7a71fba",
+   "size": 1676
+  },
+  "kp/kp1504.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1504.tab",
+   "s3_etag": "bd2418e36a723c9bd72e7dcd9699c969",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "2779bb8873bef6c8e7e25a9ca57bc5a33ea6bf029f2913935f5b083bd10f0b9f",
+   "size": 1626
+  },
+  "kp/kp1505.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1505.tab",
+   "s3_etag": "d56fe1ee7ce1397cd27ecfbe5e86bf18",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "5402123bbf00d6d307ada530fcd530c97a9d6f4ba7e54b29d870b3a1c2ad6cea",
+   "size": 1676
+  },
+  "kp/kp1506.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1506.tab",
+   "s3_etag": "e406e4c2fd5f44b3acbbebc8b14ed810",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "a91dd73871785ede90c261b118b44c706a52ca318c6e6eba7773e1c026417f09",
+   "size": 1626
+  },
+  "kp/kp1507.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1507.tab",
+   "s3_etag": "ba3460e33c978e3e413adabc5fb84056",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "927737e08aa5b36a2590455df4c8ba246afd841c51b76db073c6bf2a9822fc48",
+   "size": 1676
+  },
+  "kp/kp1508.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1508.tab",
+   "s3_etag": "eaf5f3e079599a0cebcd5be21075bb2c",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "e1a498c42da365b24b31cbfc1b64ae94eaa4889a59189ce33823bbcc311380eb",
+   "size": 1676
+  },
+  "kp/kp1509.tab": {
+   "downloaded_at": "2026-07-30T05:37:28+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1509.tab",
+   "s3_etag": "488b05878ab1c1e71269a93df0dabc85",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4f975e6d8e8cb28adf120d982aa6118645e07eafbfaeb70af1def8a28d74304a",
+   "size": 1626
+  },
+  "kp/kp1510.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1510.tab",
+   "s3_etag": "1f6341f73594a5c062f4a0373aabaf0b",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "e757f4e0606517a44e4acfe6aecd521d04f2cea8ec11462781f4c2047eafc1d9",
+   "size": 1676
+  },
+  "kp/kp1511.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1511.tab",
+   "s3_etag": "a329445871a1e279726b79552cff92d9",
+   "s3_last_modified": "2023-09-15T15:16:08.000Z",
+   "sha256": "426a7e1ceefdc238cf2c2623f5ff97678167d120014b9bd93a9bf69c6df8de84",
+   "size": 1626
+  },
+  "kp/kp1512.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1512.tab",
+   "s3_etag": "1ddacce0cd143cc83ab372d96cbc5209",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "7c6d5565007dc8dc99134f8cec9142343dd849133a8eabc9037774e262b771bc",
+   "size": 1676
+  },
+  "kp/kp1601.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1601.tab",
+   "s3_etag": "571a404915a02e66cf9932aa5bdc8d39",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "dc34da607a911a10ec01b03d72eed74df82f6b3499437316a4e6f66cbfde740d",
+   "size": 1676
+  },
+  "kp/kp1602.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1602.tab",
+   "s3_etag": "96955bb0dc3d6fa34035e4f38c841aae",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "e2a36b782580bf87e675ba61320dafb99124fe93e2d150e7a2015b244b2149b3",
+   "size": 1576
+  },
+  "kp/kp1603.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1603.tab",
+   "s3_etag": "8b7f2b98e5d08d460c475586e8c06243",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "09d007ba38465fa11c09636b8b2688976effa886ca9f6cffd9a1bedb0a62234f",
+   "size": 1676
+  },
+  "kp/kp1604.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1604.tab",
+   "s3_etag": "11432092addc6678471883cf93c801aa",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "a458535650600dac18988dfc8128828d312a812bab68ec87c280afa9a2ecc6cb",
+   "size": 1626
+  },
+  "kp/kp1605.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1605.tab",
+   "s3_etag": "885ac061a77a6e68b08f4d4765953f9a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "f7f37061f3b2e13a13100ba536b700181337022d9d971997532cf49c854eae6e",
+   "size": 1676
+  },
+  "kp/kp1606.tab": {
+   "downloaded_at": "2026-07-30T05:37:29+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1606.tab",
+   "s3_etag": "90e0f954b4e873750fb45e132dcc58a6",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c21b6befdb566076395c7a8d0c97687823f356f3cdfd62c4886fb8494c8ffdb8",
+   "size": 1626
+  },
+  "kp/kp1607.tab": {
+   "downloaded_at": "2026-07-30T05:37:30+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1607.tab",
+   "s3_etag": "e1a98d3ff05aedc018d6cd47079a9585",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "55ac3a9ec164be79aa36d042a2634240c82b0a56659dbc756aab2117eee7490c",
+   "size": 1676
+  },
+  "kp/kp1608.tab": {
+   "downloaded_at": "2026-07-30T05:37:30+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1608.tab",
+   "s3_etag": "102f1fe31e14ba26596906b0aac9a6ea",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "50ea76af0de05f43ac179159262e580516127d4aa865b789fb03144989b22746",
+   "size": 1676
+  },
+  "kp/kp1609.tab": {
+   "downloaded_at": "2026-07-30T05:37:30+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1609.tab",
+   "s3_etag": "b0aee61c8989e597011556d7fa9a3c2a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b1ce1c58ad148d5fefb053511b4ce50e8d74f33113cda960e7e1ec248726ae9c",
+   "size": 1626
+  },
+  "kp/kp1610.tab": {
+   "downloaded_at": "2026-07-30T05:37:30+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1610.tab",
+   "s3_etag": "73d4b612ce900e4b8cc10de8090440d3",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "210ca807596c08805413620510f64a36101803167599f9055e58df0148b04348",
+   "size": 1676
+  },
+  "kp/kp1611.tab": {
+   "downloaded_at": "2026-07-30T05:37:30+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1611.tab",
+   "s3_etag": "9600bf2db70c53facca66bf713db6052",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c64aaa891764b876c37d6da3c57972604a7a5dc16c7f66f614e134db5777ad67",
+   "size": 1626
+  },
+  "kp/kp1612.tab": {
+   "downloaded_at": "2026-07-30T05:37:30+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1612.tab",
+   "s3_etag": "4cfb97305ffcdd16cc71f6da6289a61f",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "917a8d3ccec242c7e2716bb1d3e6b9317886204c87d4be8135416afdd40276cc",
+   "size": 1676
+  },
+  "kp/kp1701.tab": {
+   "downloaded_at": "2026-07-30T05:37:30+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1701.tab",
+   "s3_etag": "754b1de89f0ff9e16b206beb0aa4f4eb",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "952863161d690e91c727fb005bd9ae938e7103ca43ffe814549e0ddfa3770fe0",
+   "size": 1676
+  },
+  "kp/kp1702.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1702.tab",
+   "s3_etag": "ce6f786b1d8cccd2d086d8eb5c8f0a06",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "d7049c79c256acdabd0389ea6b744e2e21a7bc216fbf51b650b94a95e4b26e00",
+   "size": 1526
+  },
+  "kp/kp1703.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1703.tab",
+   "s3_etag": "46deec4bcf13e8bc2b311c1a7b9c1b57",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "16f390684049d7152ec23200da25ecc5e9c71d0c58b6a30c21531ef2114ac34b",
+   "size": 1676
+  },
+  "kp/kp1704.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1704.tab",
+   "s3_etag": "a44bfe5558bc9e543ffbc53fd57f363a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "8fee7982ecc82078dd6785152680bbe0e265833c3df5478f8695e272dae4f1b6",
+   "size": 1626
+  },
+  "kp/kp1705.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1705.tab",
+   "s3_etag": "4deaa606e7c3d929c04753ac3249eb9b",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "3ed91c6ddd2df148a8b4ffd9834ab99991bd8924ba4d309d6fdb3a8fa488691f",
+   "size": 1676
+  },
+  "kp/kp1706.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1706.tab",
+   "s3_etag": "a695b66e7f9b91b5b59cac8a35cca691",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c09620c23623a77e8155195ed78330e1f1282a63917a8466f9cf2f68f1dc4f5d",
+   "size": 1626
+  },
+  "kp/kp1707.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1707.tab",
+   "s3_etag": "c895ecb267cb7f3d66be52ed6830e807",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "e770b4d70bdf2d9f67be64c0c6644c57bf658e851dc09562fa3bbdfc285f1a9a",
+   "size": 1676
+  },
+  "kp/kp1708.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1708.tab",
+   "s3_etag": "032b9195cfb7064b2cdedf9d0b957619",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "9d8c0da556dc3d38c93e0e0a42f9a1cd721c72b8a36c8f38dc58b5c9ae977c83",
+   "size": 1676
+  },
+  "kp/kp1709.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1709.tab",
+   "s3_etag": "c4dd015b452c57c9aef58f6daef5b2ad",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "27d2616adadff41da84c40ae7abefd1c5ed8f86abbb8a644c0d74ac31f58ad84",
+   "size": 1626
+  },
+  "kp/kp1710.tab": {
+   "downloaded_at": "2026-07-30T05:37:31+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1710.tab",
+   "s3_etag": "dc22a81c0aa23600b7706ff7d654d025",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "d0bb4df9f7462aaa49be44c2c346c0898e5f5d5b8410a1ab472551560b686d18",
+   "size": 1676
+  },
+  "kp/kp1711.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1711.tab",
+   "s3_etag": "9fcec0e1683c6cc8792c2767efe3fe7a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "637c486a776f428058e68d40b1b02021f124fd51038f082f65770c4799919430",
+   "size": 1626
+  },
+  "kp/kp1712.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1712.tab",
+   "s3_etag": "404fe0e9286df86ed3eb9e16ce071090",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "fd6ce6e5045eb9d9ca071ffa60b2514e49c865f06a94722f8007060f8daffee0",
+   "size": 1676
+  },
+  "kp/kp1801.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1801.tab",
+   "s3_etag": "8700db82f8d96a0a106fa9dd9ceae197",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "3a07003a3fe191ad3af93c0d789d065ecfd47aa4cb23da4510380efa81e00bc7",
+   "size": 1676
+  },
+  "kp/kp1802.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1802.tab",
+   "s3_etag": "fec3a41774b0687198fa76fec144f5db",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "33c2bce23e7d895b2ba41d9ef843086b4ed34cb2910d795db339ad33c42fa874",
+   "size": 1526
+  },
+  "kp/kp1803.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1803.tab",
+   "s3_etag": "0ac8aa7213677ea412b70c4159766817",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "3e6264766d2386c5da0d92ac8271b12f0a11bbd1b35b3bfef3748c112b3a848a",
+   "size": 1676
+  },
+  "kp/kp1804.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1804.tab",
+   "s3_etag": "0f80430f9fc1b5fee5f6027b96d47182",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "483aa11f761b99f308b7c25c321a6c34f28248530754515868f51ea3c4bfc951",
+   "size": 1626
+  },
+  "kp/kp1805.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1805.tab",
+   "s3_etag": "4f961b1d864694260bc7518d67e59771",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "94d93a23f92c2a55982160622befd39163f68182ad7f8f174ae73dbc1aa749bb",
+   "size": 1676
+  },
+  "kp/kp1806.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1806.tab",
+   "s3_etag": "c5918f3b07c8b79249df60ee3d0d40cc",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "15dfbc8a746e1056e1ee0c9f2a215d4efb962edf73a1282fa972e7404fe60a7d",
+   "size": 1626
+  },
+  "kp/kp1807.tab": {
+   "downloaded_at": "2026-07-30T05:37:32+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1807.tab",
+   "s3_etag": "06ddbd2aaf1b9ec136e8e33c17b9ba44",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "fd86beb3f6fa47027122f7cd49f4336d62e36e3868a4d6385d86b0a1f3bd1bf0",
+   "size": 1676
+  },
+  "kp/kp1808.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1808.tab",
+   "s3_etag": "fa306f441c557a8f88bb0ae7dd335583",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "96434534cc8760e8d41b1ae9c4f11a1cbd2a68877055660125d8aa0d2bbf2a46",
+   "size": 1676
+  },
+  "kp/kp1809.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1809.tab",
+   "s3_etag": "dd4b7c660ac9789984700e08f405c7e6",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "a984f4046235fa3db152191d18223416a581248387e4bc8137fd855433020751",
+   "size": 1626
+  },
+  "kp/kp1810.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1810.tab",
+   "s3_etag": "f3ca541fa54811ddade8db3478b60163",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b4f26295d5baa69c0f389e5199e00a4b8aa9c90994fdaf082375f4bc5ae2d9ae",
+   "size": 1676
+  },
+  "kp/kp1811.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1811.tab",
+   "s3_etag": "b88bc4ff7d1c04a41ad013716d2580a6",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "23bb619ea601b1b58cba9b73eefb27e4b32585f18b3ca5d374bd37eb1f077240",
+   "size": 1626
+  },
+  "kp/kp1812.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1812.tab",
+   "s3_etag": "109d55eb0dd6b4ad33caf2565521486a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "1eb10db366bbfa639648613c4a6d74462ab2d14aba936e1e1d6945e22d873c45",
+   "size": 1676
+  },
+  "kp/kp1901.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1901.tab",
+   "s3_etag": "e56b1e4ff47627257456f485141dee57",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "60dff10814b3cc20fc09b7b6dba124146a47753e8a6e710eaa7d02790f5bea09",
+   "size": 1676
+  },
+  "kp/kp1902.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1902.tab",
+   "s3_etag": "9febb57457471bf2322e8b04e030f728",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "28418f183d5c0b7005f0b6d0612d62f9569d964fe7fc2d576915f40502d7ae7f",
+   "size": 1526
+  },
+  "kp/kp1903.tab": {
+   "downloaded_at": "2026-07-30T05:37:33+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1903.tab",
+   "s3_etag": "01f2cb88a359aa926522f13377ff7d13",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "8d41f7be7a5e08aa4e5ed3644d98f835ea814220f71e65ce2e8868a28fe0eb05",
+   "size": 1676
+  },
+  "kp/kp1904.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1904.tab",
+   "s3_etag": "7ed77c3e832b0e7a3ff9df1b245b45fa",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "6e297ac4ba85db0c75ac3a4902bda1d9f939aeb41d8289e0af94ab0725c3a215",
+   "size": 1626
+  },
+  "kp/kp1905.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1905.tab",
+   "s3_etag": "8e5dd2f6c41dd6dce471abb9fab97c52",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b691d131577837ace926f800421942228ee542a07a3229805b093368825bd98d",
+   "size": 1676
+  },
+  "kp/kp1906.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1906.tab",
+   "s3_etag": "89905fbd859ebbd46e40846482633a6a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "16053ed1edc6b57e13d29905cc184bb65130d97336150f53b2a38af91f7ee468",
+   "size": 1626
+  },
+  "kp/kp1907.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1907.tab",
+   "s3_etag": "4fe3d657e4671063d5d5d98299b78c63",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c3c33a2028a7efa4fd39e7013ea10f532f0d38b5c23c5b7334931b4fe102dde6",
+   "size": 1676
+  },
+  "kp/kp1908.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1908.tab",
+   "s3_etag": "502b103bf9d6fdec5e473321d5595c93",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "1491ab5d527e3eb9c682018d5943d3ed152b236b04786d56d1076a533c63cafd",
+   "size": 1676
+  },
+  "kp/kp1909.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1909.tab",
+   "s3_etag": "cf2316f95e3a17ffdfd8a7e1f0a82f78",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "7a72adc56f62480675d105bc50658432a1d1e217c18b02fbfe76fa6cd6c79cf1",
+   "size": 1626
+  },
+  "kp/kp1910.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1910.tab",
+   "s3_etag": "9ffd8d9317e6261f7800ca9622ea0979",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "262c22c752fa259f69d830b7d34e4f1bacd83f1fef682806f6f7ad592a89d0cc",
+   "size": 1676
+  },
+  "kp/kp1911.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1911.tab",
+   "s3_etag": "f69ee34c7bbdbba4086ebb20e1dd5962",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "56d8146b719fd16e8266d7dbed613f52e1e21ec5d9713c6efbec4bf7105b0da1",
+   "size": 1626
+  },
+  "kp/kp1912.tab": {
+   "downloaded_at": "2026-07-30T05:37:34+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp1912.tab",
+   "s3_etag": "495ff33ae518ef06744a496fbc28da75",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "f02398fd4abd8d96bdb4bbcbbd7fd01b25d584659d16b277071954cae13516e0",
+   "size": 1676
+  },
+  "kp/kp2001.tab": {
+   "downloaded_at": "2026-07-30T05:37:35+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2001.tab",
+   "s3_etag": "b012d6aa133d6e0ff3127ebb94857c55",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "944b75c09438c524dc6958c00de12dc59ad20475373156bd32acc74a95375f40",
+   "size": 1676
+  },
+  "kp/kp2002.tab": {
+   "downloaded_at": "2026-07-30T05:37:35+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2002.tab",
+   "s3_etag": "535e9a6776e918587351222dfa38f490",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "1dcdd75e53f71dd9f09095cb028e44461f8b952a998742fd68bb948d378e4a0c",
+   "size": 1576
+  },
+  "kp/kp2003.tab": {
+   "downloaded_at": "2026-07-30T05:37:35+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2003.tab",
+   "s3_etag": "71a41e6fdae131076e18d58fbca277f7",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "e873518a880e3a779d82b7e7c5f39097b6f2693cbe2bf354cb88e2057fe7aea5",
+   "size": 1676
+  },
+  "kp/kp2004.tab": {
+   "downloaded_at": "2026-07-30T05:37:35+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2004.tab",
+   "s3_etag": "150f597c2f849037ca9bef7d492f821b",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "43f2c41543500a5180bb32a225f38b50e58c590574f891d97c733ad823dc6821",
+   "size": 1626
+  },
+  "kp/kp2005.tab": {
+   "downloaded_at": "2026-07-30T05:37:35+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2005.tab",
+   "s3_etag": "5903912942e2a0d15b710dfab101a1b2",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "2e4bf4a813c2ab9df8baaaad5ea1a38dae6ed074d78de76ec2cba2756e610019",
+   "size": 1676
+  },
+  "kp/kp2006.tab": {
+   "downloaded_at": "2026-07-30T05:37:35+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2006.tab",
+   "s3_etag": "7178eaafb6a7fa54bd4a0dc568207f40",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "388de04b4efea7a79c0647b7dcd1303dab1293467ee61a7ce5940a474a07f869",
+   "size": 1626
+  },
+  "kp/kp2007.tab": {
+   "downloaded_at": "2026-07-30T05:37:35+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2007.tab",
+   "s3_etag": "ee6508f9145c091ad154811997e6b095",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "503e242bad23571a9c01c4a27626439ed4e601b47559e681636c18ed308eb629",
+   "size": 1676
+  },
+  "kp/kp2008.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2008.tab",
+   "s3_etag": "bc531828985c4a8f986dca5adb2b6c32",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "ed30c35d0cc0179fc688aa42f216ba31d5467280dff80f3692df707f8df90da2",
+   "size": 1676
+  },
+  "kp/kp2009.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2009.tab",
+   "s3_etag": "490e0e1ee189a9edde5ca987b1faf640",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "0bac833c011bb820cdaa87df15cfb99cc5797e26eaa3d71017b8c1337c341545",
+   "size": 1626
+  },
+  "kp/kp2010.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2010.tab",
+   "s3_etag": "20d8e7be10fe721097d43947d1fc3fcf",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "e2ae8f04bc8836541c7e0e06eee6e8d9afda49fbe4626d28e03da7da31a9a91a",
+   "size": 1676
+  },
+  "kp/kp2011.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2011.tab",
+   "s3_etag": "f4dc41dd5be88ac208d86e04fe23806f",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4004367a49276342cab9381e1dd85864296cbd0a55af5319e7d7a1aa143dc866",
+   "size": 1626
+  },
+  "kp/kp2012.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2012.tab",
+   "s3_etag": "0d4a6dc514563a36a4c322701740a29b",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b8fce4e8008f198cce93585c175cc7e1056d69fc65a4b97d9b72257641442e33",
+   "size": 1676
+  },
+  "kp/kp2101.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2101.tab",
+   "s3_etag": "d2195e85e832939ed7928e03d8080420",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "47c4465df2f65efb34163c1805a3932cdd8ea38a6047b376230d46d43369e5a7",
+   "size": 1676
+  },
+  "kp/kp2102.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2102.tab",
+   "s3_etag": "9b1ca27a58ff62bcf69521798f2e03a5",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "601115effb919b4a49914cb5ad4880a9ee86e1eebe9401b28fdef23347d15f08",
+   "size": 1526
+  },
+  "kp/kp2103.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2103.tab",
+   "s3_etag": "79bfa7849d2f6b5e23915ab8aa9c10da",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "242313c4c12ba8a3cf31ea838137160ca18a313b00e2ec5e2ffd2732aec682bb",
+   "size": 1676
+  },
+  "kp/kp2104.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2104.tab",
+   "s3_etag": "da31d6ca4cdf1dfc9f5e50f98640c3f0",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b85625a2619ce39ff581e41b7faf9fad00c03ad6561c8af1d9beb13a699e4a58",
+   "size": 1626
+  },
+  "kp/kp2105.tab": {
+   "downloaded_at": "2026-07-30T05:37:36+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2105.tab",
+   "s3_etag": "290b73c0e9a0540368fe7b04b1058c52",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "58cbe2453783cf66dda598e3461fc1f8b73896328d470acc3ae6aacb8ef440ec",
+   "size": 1676
+  },
+  "kp/kp2106.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2106.tab",
+   "s3_etag": "71a0828ce91e1871ec07cf28ccdfb3b7",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b81e68372559d8656872eba20f010545409f73f6b73eed287e5ebd3fd9a29334",
+   "size": 1626
+  },
+  "kp/kp2107.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2107.tab",
+   "s3_etag": "4d308c65e04c15fe2468705ae9df1606",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "db0d5962accf72ac6c32ba5b675dd04e0323590be20bf2438f448e27dadd1352",
+   "size": 1676
+  },
+  "kp/kp2108.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2108.tab",
+   "s3_etag": "372711cc3d057f9c046550e63e35555a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "58db79c4232f089ac5aa8ee7c3da8d452332425709c5ab85cf767f14d508ef4f",
+   "size": 1676
+  },
+  "kp/kp2109.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2109.tab",
+   "s3_etag": "4567c886e855fadfe53018f894c9c366",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4feef20dcd4ffb2430e8ba1c8d7a1c28fa12235e8aa36c5b9bd245c5934825c8",
+   "size": 1626
+  },
+  "kp/kp2110.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2110.tab",
+   "s3_etag": "b62d77d5bf2758afcf96532fe03eeefe",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "606bcaa81249132b4c98c3db081ec72bd78b39d46f82f6f72e4a128b7c8688cc",
+   "size": 1676
+  },
+  "kp/kp2111.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2111.tab",
+   "s3_etag": "f8b2925e4da1ec8052864ddae8644216",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "f51a0d8529d41d8b2a0f48f66d2664f7bede986bb9f5c805630b90015736cf37",
+   "size": 1626
+  },
+  "kp/kp2112.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2112.tab",
+   "s3_etag": "93c07f74a9e6d916879f565b17df58a4",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "d66ea4d5dad07ecc782150b51ece3ebba1d8c55e92d59077d1dae517cd97e1d9",
+   "size": 1676
+  },
+  "kp/kp2201.tab": {
+   "downloaded_at": "2026-07-30T05:37:37+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2201.tab",
+   "s3_etag": "8fa12a1c4baa90d459df0f241341c35b",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "333737434e6d2df47ec523bc9d1da34533d770c12678f01b09a573903e271bf9",
+   "size": 1676
+  },
+  "kp/kp2202.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2202.tab",
+   "s3_etag": "17947bdd2910b9e0c49d068e6425118b",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "bce75ddb2fb40c334f560dfab93c6c63a39db2466b3b989babbad91e5f8f8633",
+   "size": 1526
+  },
+  "kp/kp2203.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2203.tab",
+   "s3_etag": "1ce40c4a6a76ea973bdbf0b3ef2bc037",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "f2937e998415ca4a79d6dc5aa224a00c2528b1dff58b8e803f4d0929b7a8387f",
+   "size": 1676
+  },
+  "kp/kp2204.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2204.tab",
+   "s3_etag": "6b7a37bbc8a55e1790ef798c88171e8a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "607761b9a6b7b4ec8f63fc5503ff092bb40d0ce3fad39736f953d1a0d472f525",
+   "size": 1626
+  },
+  "kp/kp2205.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2205.tab",
+   "s3_etag": "c9f56f869b7c7b630e707aeed872f537",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "76464775d60f19ba4855f4c91765e377a23db18f13c6211c40a97b94531007bb",
+   "size": 1676
+  },
+  "kp/kp2206.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2206.tab",
+   "s3_etag": "44cabc9c116b80ff95781c5ba499d1e4",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "77b07b7b7e9a11db86d95b6283f6662940e673fd22b6ed2fee62cccaa861bd48",
+   "size": 1626
+  },
+  "kp/kp2207.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2207.tab",
+   "s3_etag": "04e83b2ab45d67832e2b598c77a2be55",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "1041054dbad23b32012f2658308596bbdeb9472f7e3c994cc17ad0d9396b557c",
+   "size": 1676
+  },
+  "kp/kp2208.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2208.tab",
+   "s3_etag": "4702e3ff459703f451bd5a5724dce024",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "5bc3e323b2a5b09fb4dcf441c4fcfa4fc57621aa64dafc32cdf3f712d93a2499",
+   "size": 1676
+  },
+  "kp/kp2209.tab": {
+   "downloaded_at": "2026-07-30T05:37:38+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2209.tab",
+   "s3_etag": "96285567661401f12b2d5a0e6e262457",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "77b3377939dbf80c3172ba46738ab829cd9248c374f17e7eafb65eb8d0c2a5a7",
+   "size": 1626
+  },
+  "kp/kp2210.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2210.tab",
+   "s3_etag": "6cd495d64cc90d944d969757ecce72cc",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "d3955ccabe5dec183d11d10b0373ba6082707aed5189e8b7f5a0a47aa71870c7",
+   "size": 1676
+  },
+  "kp/kp2211.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2211.tab",
+   "s3_etag": "9686dfa161a62ecf0cb3a56e9a6f28ab",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "6b41c6137b72a0c0f1dcee0cec1044ddcc7b47c9e1acc151f4db4121ab1d6614",
+   "size": 1626
+  },
+  "kp/kp2212.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2212.tab",
+   "s3_etag": "72c913d4577c7578db0ea0b67d94291a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "f2f456eb0680769284ef1a0dcc25e6040b6a375a3e68358128a3b61a0cf97412",
+   "size": 1676
+  },
+  "kp/kp2301.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2301.tab",
+   "s3_etag": "870877d940b45c9d11cd64de56b263a4",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "6f532e5a1ee4cd99bca652285a71deaa913a1dc81a24bccfa2a8c5906a3e4a3b",
+   "size": 1676
+  },
+  "kp/kp2302.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2302.tab",
+   "s3_etag": "c475b28c8cecca0b4c0d16de37324630",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "ded97f19e7cb9da840e88fa1780be39f8af12094012280fd3cfdfcb963a69041",
+   "size": 1526
+  },
+  "kp/kp2303.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2303.tab",
+   "s3_etag": "0b6a9c4d2e4633e4f24a20c84de51e88",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "eb326c0110e8b0ba98ddadc59f93187b9d9c9dd92ac232682f873d8da55c6cc6",
+   "size": 1676
+  },
+  "kp/kp2304.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2304.tab",
+   "s3_etag": "e95f1e2dc89e239753785eac6081041d",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "fc98e0317673e8e4fb06820e9c8b2b53f6ea8739e565ccf23d80fc447fd5351d",
+   "size": 1626
+  },
+  "kp/kp2305.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2305.tab",
+   "s3_etag": "4c844003cb1b05c97740d67caaebbbfd",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "6b9fa262b6edcf156707b9e3fa72e9944b44893fbd9743af19e1e042e8a4bb38",
+   "size": 1676
+  },
+  "kp/kp2306.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2306.tab",
+   "s3_etag": "98c9a76eef57592558bcd985c26fdd37",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "226fb8dcb385428b21267de21d7b99105aa6b3cad2ba3ccb515753ac6783c776",
+   "size": 1626
+  },
+  "kp/kp2307.tab": {
+   "downloaded_at": "2026-07-30T05:37:39+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2307.tab",
+   "s3_etag": "978aac58daf47219b077d0567c7f1451",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4e6fdbf1da534779665a4d2fb1b4770c6d4889c1cdbe9e28410b21b4ee145f36",
+   "size": 1676
+  },
+  "kp/kp2308.tab": {
+   "downloaded_at": "2026-07-30T05:37:40+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2308.tab",
+   "s3_etag": "61af7d478737db6660d8a2c16fa34c35",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "418419636dc6ef0c404c61638e880a8b61d07a8c50553f717a9b84b2ed7de781",
+   "size": 1676
+  },
+  "kp/kp2309.tab": {
+   "downloaded_at": "2026-07-30T05:37:40+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2309.tab",
+   "s3_etag": "a4eb7062aa4e753cf90a5f239ac5a832",
+   "s3_last_modified": "2023-12-06T16:26:43.000Z",
+   "sha256": "a5b4f7e45c31e2a75d5824146e2a18eb3701eca091e79989a69be55fec4bb102",
+   "size": 1626
+  },
+  "kp/kp2310.tab": {
+   "downloaded_at": "2026-07-30T05:37:40+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2310.tab",
+   "s3_etag": "214a6cf26b1b5b16389f3f43be6f226a",
+   "s3_last_modified": "2023-12-06T16:26:43.000Z",
+   "sha256": "9759de7be9bfe8ddbdc73330950518f9600cd71ebe51d11a2125a9914d0fe625",
+   "size": 1676
+  },
+  "kp/kp2311.tab": {
+   "downloaded_at": "2026-07-30T05:37:40+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2311.tab",
+   "s3_etag": "afdcda12cadb439750201be3e3a661cd",
+   "s3_last_modified": "2023-12-06T16:26:43.000Z",
+   "sha256": "9ec05357839bad30cd8b1e56a4b2af0127d6ce646a9df33d075c225757c158d6",
+   "size": 1626
+  },
+  "kp/kp2312.tab": {
+   "downloaded_at": "2026-07-30T05:37:40+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2312.tab",
+   "s3_etag": "1ce276f305c4dec92c6608661ff8ec1d",
+   "s3_last_modified": "2024-03-01T20:37:26.000Z",
+   "sha256": "0b6fe204b212d133de51d769a327f47f06bc5d8558f501400b2c955cf34706b8",
+   "size": 1676
+  },
+  "kp/kp2401.tab": {
+   "downloaded_at": "2026-07-30T05:37:40+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2401.tab",
+   "s3_etag": "99b309d5492ae15fe307b39d058666e7",
+   "s3_last_modified": "2024-03-01T20:37:26.000Z",
+   "sha256": "a17edda5a57ece673fe833e68d98125296d88c98099c0e51c37df97537a0e8e7",
+   "size": 1676
+  },
+  "kp/kp2402.tab": {
+   "downloaded_at": "2026-07-30T05:37:40+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2402.tab",
+   "s3_etag": "3bec7133f3b88ea66a05941f6f9e33ce",
+   "s3_last_modified": "2024-03-09T06:04:22.000Z",
+   "sha256": "9fa2f9b9ccabd72e17e8e50ed7421f3b0252bc26e2309ea6851157a9d2ab80d6",
+   "size": 1576
+  },
+  "kp/kp2403.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2403.tab",
+   "s3_etag": "edfff11bab694819537ca73928e08205",
+   "s3_last_modified": "2024-04-13T05:09:38.000Z",
+   "sha256": "fe1531d477baa5344dd3a1af7ff0afacfeff220418e118a081ad19d13d1815f5",
+   "size": 1676
+  },
+  "kp/kp2404.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2404.tab",
+   "s3_etag": "b460405278e22c6b954b7c1db99f0ca1",
+   "s3_last_modified": "2024-05-11T05:08:39.000Z",
+   "sha256": "ff81532118fd016323cbaaee2bdb0ab5e0ce0faa4e76ccedda6616e921577d94",
+   "size": 1626
+  },
+  "kp/kp2405.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2405.tab",
+   "s3_etag": "9a93e12d48ceb2af9820c3a09e48a030",
+   "s3_last_modified": "2024-06-22T05:00:55.000Z",
+   "sha256": "7e179b2c3a7d4d68a2c07bb01c19a84af55d4bb54b4c85c6c6ffc4514c334f1c",
+   "size": 1676
+  },
+  "kp/kp2406.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2406.tab",
+   "s3_etag": "b77ab896cb27f6a745a5f975bec18ab1",
+   "s3_last_modified": "2024-07-06T05:00:55.000Z",
+   "sha256": "acc99f2ad2d2d9fa88069f76d3b4a58f118aa10138f96d98434fffed23104ed2",
+   "size": 1626
+  },
+  "kp/kp2407.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2407.tab",
+   "s3_etag": "2c0c22ccf27139bd7a723ddba5deb15b",
+   "s3_last_modified": "2024-08-10T05:00:56.000Z",
+   "sha256": "b1231b6326f3964d7ada29e291e75878e13e4befbd13d1303498e48d4bb079f0",
+   "size": 1676
+  },
+  "kp/kp2408.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2408.tab",
+   "s3_etag": "a92606539a9a4dc1e0610c5429c4344e",
+   "s3_last_modified": "2024-09-14T05:01:40.000Z",
+   "sha256": "3ad80e5926cb2288645aafbbed11d3bcc033c62d8bc9fdbc981c88adf8b17669",
+   "size": 1676
+  },
+  "kp/kp2409.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2409.tab",
+   "s3_etag": "4758ab9266317c76bb8aa79fc990313f",
+   "s3_last_modified": "2024-10-12T05:01:07.000Z",
+   "sha256": "1a6421b7bba57f9e53c7079992fc67c4181b64bd020cb0cb0e78a8ee67a217f6",
+   "size": 1626
+  },
+  "kp/kp2410.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2410.tab",
+   "s3_etag": "ede5c6698789cb4f18053a6dc8a8dcb8",
+   "s3_last_modified": "2024-11-16T06:01:00.000Z",
+   "sha256": "55969e1afa280dbb6dfc3abef139b1477ad52b5250d03ad3711bbf5ccc74e07f",
+   "size": 1676
+  },
+  "kp/kp2411.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2411.tab",
+   "s3_etag": "33fd17f8798d4aa4b2bc2cbd8644d405",
+   "s3_last_modified": "2024-12-07T06:00:58.000Z",
+   "sha256": "39705dfdc2b910ba92dde1361164578d688565bb2f21172ba3ea1dfa4b8c49c0",
+   "size": 1626
+  },
+  "kp/kp2412.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2412.tab",
+   "s3_etag": "8c8d64e3d190c7a57b2619946fe4de7e",
+   "s3_last_modified": "2025-01-11T06:01:08.000Z",
+   "sha256": "d5a4f353e95b8f05a6f31f3baf786ed7d5eaa1bcd1d5843f29191e0f79f5e06a",
+   "size": 1676
+  },
+  "kp/kp2501.tab": {
+   "downloaded_at": "2026-07-30T05:37:41+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2501.tab",
+   "s3_etag": "f48d6b2168528aacfe461d88ff8757fa",
+   "s3_last_modified": "2025-02-08T06:01:33.000Z",
+   "sha256": "dad760603d346928cf860ea3f1868839704d20a3514224f71a3c206837bc0de8",
+   "size": 1676
+  },
+  "kp/kp2502.tab": {
+   "downloaded_at": "2026-07-30T05:37:42+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2502.tab",
+   "s3_etag": "6ae2525a1fb0ef2e7b7772c7fe5052a8",
+   "s3_last_modified": "2025-03-08T06:01:43.000Z",
+   "sha256": "b83021282cd621cebf91dd30e071fc7a9481ff51a167da22291d40e0dfbc20c9",
+   "size": 1526
+  },
+  "kp/kp2503.tab": {
+   "downloaded_at": "2026-07-30T05:37:42+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2503.tab",
+   "s3_etag": "76ca6647dd9affaed33625e64153d2d3",
+   "s3_last_modified": "2025-04-05T05:02:40.000Z",
+   "sha256": "f3e45e33b39a944b7462f2d63665449c82526d30a6247542108d1e8c2ddd99b3",
+   "size": 1676
+  },
+  "kp/kp2504.tab": {
+   "downloaded_at": "2026-07-30T05:37:42+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2504.tab",
+   "s3_etag": "9db83d81eb8f765849415581bd991dae",
+   "s3_last_modified": "2025-05-10T05:01:23.000Z",
+   "sha256": "ad39035c690621cd159d3a0cf1b356e1dc36ecfbf4f468c45ae8f357da743a99",
+   "size": 1626
+  },
+  "kp/kp2505.tab": {
+   "downloaded_at": "2026-07-30T05:37:42+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2505.tab",
+   "s3_etag": "3508a0b8c5f2aa95de83e86755d58052",
+   "s3_last_modified": "2025-06-21T05:02:14.000Z",
+   "sha256": "c201b130e09f31ff7f6c4e19ab9ab445622b27f9bd19d7e43487054bee0a5b68",
+   "size": 1676
+  },
+  "kp/kp2506.tab": {
+   "downloaded_at": "2026-07-30T05:37:42+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2506.tab",
+   "s3_etag": "b70446275de33effde68d0a039221523",
+   "s3_last_modified": "2025-07-09T19:16:05.000Z",
+   "sha256": "362694b2332a3a09813531fb2a79dfc88f86ac1b7f3d76ffe99fee9c11119ff7",
+   "size": 1626
+  },
+  "kp/kp2507.tab": {
+   "downloaded_at": "2026-07-30T05:37:42+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2507.tab",
+   "s3_etag": "811ef7a134a23d2dd67f3a7b90d9d11c",
+   "s3_last_modified": "2025-08-09T05:01:41.000Z",
+   "sha256": "8c33c263cdb7f25a6701cd1a11a54ab5e19c11fdc15057d8e3af047add68573f",
+   "size": 1676
+  },
+  "kp/kp2508.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2508.tab",
+   "s3_etag": "f73bae27d7716a65294d32190a6b173d",
+   "s3_last_modified": "2025-09-13T05:02:56.000Z",
+   "sha256": "f0f47bcc89d90f76056373bc76d217dd8e9966463395caf7f6aa8eeec6b969a5",
+   "size": 1676
+  },
+  "kp/kp2509.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2509.tab",
+   "s3_etag": "244dab1211c6775d2746d9c95f85ac00",
+   "s3_last_modified": "2025-11-22T06:02:07.000Z",
+   "sha256": "b926bb618b57524d9f967fe45f4319055569da25625135d5630dde293eff282a",
+   "size": 1626
+  },
+  "kp/kp2510.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2510.tab",
+   "s3_etag": "f0f03c1940f194638fd276d18dd328c7",
+   "s3_last_modified": "2025-11-22T06:02:07.000Z",
+   "sha256": "42fa92c5f9b968b0f77ec99fc05dd14e7ed8815c149a1efb4a2c826e5aa0827d",
+   "size": 1676
+  },
+  "kp/kp2511.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2511.tab",
+   "s3_etag": "6fd78c78fd47000517c1a0b83dc1896a",
+   "s3_last_modified": "2025-12-13T06:02:03.000Z",
+   "sha256": "725a7725cdfb814cd1dbeefd56fb2eb190eb68832b9e3960890e83cc1353f0d4",
+   "size": 1626
+  },
+  "kp/kp2512.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2512.tab",
+   "s3_etag": "3db25859f0fdd16314027aaa2055fcb4",
+   "s3_last_modified": "2026-01-10T06:02:25.000Z",
+   "sha256": "a4fa8e04d061736441950b4d93e3e2f3a1bfe27304cc06f7198b8ba47ce22276",
+   "size": 1676
+  },
+  "kp/kp2601.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2601.tab",
+   "s3_etag": "4d60fee0cea3337cdaaeda37037ec634",
+   "s3_last_modified": "2026-02-14T06:01:25.000Z",
+   "sha256": "dfab3d1d3914475e71c0dbad8c5a4918776be8c7b6efecb1acbcfb8dd8b617a2",
+   "size": 1676
+  },
+  "kp/kp2602.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2602.tab",
+   "s3_etag": "e6073c24ce3bb7942491deadc5d12fc6",
+   "s3_last_modified": "2026-03-14T05:02:41.000Z",
+   "sha256": "54554ce988e0917f2ad8b28a44c3a4dcc5c47f7fc089e45676085c11e1658b4c",
+   "size": 1526
+  },
+  "kp/kp2603.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2603.tab",
+   "s3_etag": "97c99a2e2eb8539fa2e8168d19357aed",
+   "s3_last_modified": "2026-04-11T05:01:45.000Z",
+   "sha256": "58a14ea01918fd9a7c3c05dfc2bc7c812e207ee80b701ae689a5accfc4da7e8c",
+   "size": 1676
+  },
+  "kp/kp2604.tab": {
+   "downloaded_at": "2026-07-30T05:37:43+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2604.tab",
+   "s3_etag": "aff08a4acdb13de5a8f1a7293622ab63",
+   "s3_last_modified": "2026-05-09T05:01:46.000Z",
+   "sha256": "4187fdfe9fdabaa8bcd6a8ef48be2d10d962c5edb7f9237375277e47796fa16e",
+   "size": 1626
+  },
+  "kp/kp2605.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2605.tab",
+   "s3_etag": "884c6bc19b1d9f4f34ddb3e238c70693",
+   "s3_last_modified": "2026-06-13T05:01:56.000Z",
+   "sha256": "94a790ecb3787f92bc89d4857316594d1386a22067f20a62d27f41cf2520df2d",
+   "size": 1676
+  },
+  "kp/kp2606.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2606.tab",
+   "s3_etag": "d570f1ba3b04d129d45d2e7f119b54d6",
+   "s3_last_modified": "2026-07-11T05:03:02.000Z",
+   "sha256": "e10132263ac0f224cfdccb0f470df8f722df04834ad8ea6fa30d6be000798fea",
+   "size": 1626
+  },
+  "kp/kp2607.tab.ql": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp2607.tab.ql",
+   "s3_etag": "10d4aed2347f83019c19afcd064413ae",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "51912fbc7299d265b1a976f0d5f093e5c37d7e7b30bcc6ff296ea376186abf4c",
+   "size": 1183
+  },
+  "kp/kp9401.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9401.tab",
+   "s3_etag": "98cecbcf9fb0a788a6ed0c142dccd8a0",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b8bf1faba57b60b914c6ec1c4a2fc4fe19ba06b1a18e1e5f46fe10b6ff125e9f",
+   "size": 1601
+  },
+  "kp/kp9402.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9402.tab",
+   "s3_etag": "baab0a4bf832043a0526bfeef68cbde8",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "f14664cc875312776ceb8cc015cc91c10c314225cfa17903c1839301e919de90",
+   "size": 1451
+  },
+  "kp/kp9403.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9403.tab",
+   "s3_etag": "4b6db49d3e19068a0df1f7b85d3e2dc5",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "248e83fb2ace3942ca4cd8039a35ab3612e9153de3b6be1ce7a1f50138f6c2a0",
+   "size": 1601
+  },
+  "kp/kp9404.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9404.tab",
+   "s3_etag": "d7fc984119653db5722a95f34650350c",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "41e56c0044a43f19f9fc154a0c5bb5adc185ee24111fe24ceccfdebbbed73115",
+   "size": 1551
+  },
+  "kp/kp9405.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9405.tab",
+   "s3_etag": "8b8891b54a047e33ea4d7c4db415473b",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "68d0b2251e400e7725df7c6e18d7518186a9796c6fb2a9b36da13a996765e19d",
+   "size": 1601
+  },
+  "kp/kp9406.tab": {
+   "downloaded_at": "2026-07-30T05:37:44+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9406.tab",
+   "s3_etag": "e346176ce59d13d40f37e457ead29b2a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "0dbb9545070f5601d528ed46526270107ef30ae8b70ca71bd00f75204b508025",
+   "size": 1551
+  },
+  "kp/kp9407.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9407.tab",
+   "s3_etag": "1fa0d7984f9049af323c7dbd730f29a8",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c301defdfb432b05a9633235f938e7e6938aad7911ece36d1379d183a29d7080",
+   "size": 1601
+  },
+  "kp/kp9408.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9408.tab",
+   "s3_etag": "e7ac4f48bf00dd532fe1c51505943e90",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "6ea57ac97bcdfab0fd5a877fb2abaa8aced7d246cdbbc56c09a85052bce25b53",
+   "size": 1601
+  },
+  "kp/kp9409.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9409.tab",
+   "s3_etag": "5300d48dbea30a107d8d5868f6287caf",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "9c6f8912cc88b07130565931af44a851658efc9127731cebdc6957204f0c22a4",
+   "size": 1551
+  },
+  "kp/kp9410.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9410.tab",
+   "s3_etag": "348b0a14dbc2928f9a725ef75819a137",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4557948413d7f071504bbdceb104afac75e38c807c13213a7b46776b45a58c5f",
+   "size": 1601
+  },
+  "kp/kp9411.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9411.tab",
+   "s3_etag": "17be0b42d2a9f46a62c496c78d226e48",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "ce31086563b69535dcee399881755d5b4ac1d0f84d361d19bd8a6371b6ca996b",
+   "size": 1551
+  },
+  "kp/kp9412.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9412.tab",
+   "s3_etag": "b010eaa6376a9400a34eb1bbfc85b046",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "03c93f797a82c0cdc4ce0cde4ce6773acd51e23b821f6727e3d454386a72dc18",
+   "size": 1601
+  },
+  "kp/kp9501.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9501.tab",
+   "s3_etag": "fd935a7fff53ecdb26c0f1b274fc9ccb",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "cb79f7bd2981e27e3e6a610f525c9a4b383baaeacd6fb5568f2f1296b6ebd3c4",
+   "size": 1601
+  },
+  "kp/kp9502.tab": {
+   "downloaded_at": "2026-07-30T05:37:45+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9502.tab",
+   "s3_etag": "5833eaf15c6365a5dbce321b338d3f79",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "ba982929cfe30f60ce36bb609677ef31a1758ac6bb3128a5de54ca76be034cbd",
+   "size": 1451
+  },
+  "kp/kp9503.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9503.tab",
+   "s3_etag": "61f5cabec6fc2b9fff46c88e9e13691e",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "0ad5cfff5ac52b3f755dde006977f9a93bcc8ecaed553b4f4f5830fb1985f5c2",
+   "size": 1601
+  },
+  "kp/kp9504.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9504.tab",
+   "s3_etag": "724c583123e7690ccb367056e313f586",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "05286265fbf0de2556420753b0cf82a90e831f154f989ec2f4f42e0305ca3d61",
+   "size": 1551
+  },
+  "kp/kp9505.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9505.tab",
+   "s3_etag": "68b97f422c5ac2b1de9900dc5d2feb21",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c3e1ecbfbcd851cf601a8b513c653ff843ac4a4abfefd49f2095283fa3447624",
+   "size": 1601
+  },
+  "kp/kp9506.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9506.tab",
+   "s3_etag": "8bdfb8457ad80a889e7daf6d4cb37cf4",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4432967037f81a006239d2257928f592cb2173f8a78ef91ab3ed0b1297f87d39",
+   "size": 1551
+  },
+  "kp/kp9507.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9507.tab",
+   "s3_etag": "f8ff4cc23bbb810e304d28d0f540f149",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "16baa2d0349bd05f08d2496cf710c6f9eff00e3b4fa797db1f3e9b004526cd14",
+   "size": 1601
+  },
+  "kp/kp9508.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9508.tab",
+   "s3_etag": "7989e466b52d3dc69761febc4ee70c42",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "612d9d8f57625a779c03c9682635693b57aca777a718ff2a69836f208f7992a7",
+   "size": 1601
+  },
+  "kp/kp9509.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9509.tab",
+   "s3_etag": "d70e5a18b5868077924744974befe9d6",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "2421bffdea02e6c495734deab59ddc960fc6a4ead736949e11c9ff2ca0b8fa0e",
+   "size": 1551
+  },
+  "kp/kp9510.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9510.tab",
+   "s3_etag": "98ed6cd305252c5c189253916c937c15",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "e8ae6017b0b545e4ae53d6d87cc0e234a5e0021af9eaa41d19494e929417ac85",
+   "size": 1601
+  },
+  "kp/kp9511.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9511.tab",
+   "s3_etag": "08b70cf1387257253752fffb916853b1",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "482d2caaa936cb0a29472b349531105c48a7b76c21d4c64a2058d1350b2f4ede",
+   "size": 1551
+  },
+  "kp/kp9512.tab": {
+   "downloaded_at": "2026-07-30T05:37:46+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9512.tab",
+   "s3_etag": "3dc2908d85f3c8fb656fe67b5a042ee9",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "caf8544be2e1aa618efdfc3e17aeaee5a4b3ba06375ef8c153845439ebb99b34",
+   "size": 1601
+  },
+  "kp/kp9601.tab": {
+   "downloaded_at": "2026-07-30T05:37:47+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9601.tab",
+   "s3_etag": "5cfb9f0d4bd99cd51c570f90b8e6a124",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "8300caf89240f0fa6efed41d2fdddce175243acbd83f87ac45ff183c82ecbb21",
+   "size": 1601
+  },
+  "kp/kp9602.tab": {
+   "downloaded_at": "2026-07-30T05:37:47+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9602.tab",
+   "s3_etag": "40af312379f8806ca1067ef739c84f4f",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c3fdbb7d185e2fb9b9ca8eb83284b7e6919a523235fd1d4f62919e6c08401817",
+   "size": 1501
+  },
+  "kp/kp9603.tab": {
+   "downloaded_at": "2026-07-30T05:37:47+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9603.tab",
+   "s3_etag": "bbf954700ca030b37ef68e33104a83e2",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4a2e92ab56c1225ea4cf1dd24e0bc0539efb1a0bd9ec0eb94cb9d0cd77a596cb",
+   "size": 1601
+  },
+  "kp/kp9604.tab": {
+   "downloaded_at": "2026-07-30T05:37:47+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9604.tab",
+   "s3_etag": "f8e3ee2a078f7938793fc7f250a8baff",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b12c7d09db88c669e75fa00bf85f098c09beecdb61463d5565879f2488bcf9d5",
+   "size": 1551
+  },
+  "kp/kp9605.tab": {
+   "downloaded_at": "2026-07-30T05:37:47+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9605.tab",
+   "s3_etag": "6446972e2344215ec7b9fa2524387cdb",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "711e4c6d779657cc2bd6b1ac1bd5cf6415128d8ead964399eba3591cdf55fc66",
+   "size": 1601
+  },
+  "kp/kp9606.tab": {
+   "downloaded_at": "2026-07-30T05:37:47+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9606.tab",
+   "s3_etag": "ff8b81ba04ed5751bade516f06a397f4",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "57cf1e12cadc123073176093880d1e0535d272d05cb2c1d6aebb1a3c313057b4",
+   "size": 1551
+  },
+  "kp/kp9607.tab": {
+   "downloaded_at": "2026-07-30T05:37:47+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9607.tab",
+   "s3_etag": "c3073553d6d72830b8f4c27e1358ef19",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4ffa75c41858a0e9469c76c6938e9058c5d0a73f1396df2ee38ec19026d00bf3",
+   "size": 1601
+  },
+  "kp/kp9608.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9608.tab",
+   "s3_etag": "98ea05663f4cdb4fbd6be427d00ae105",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "47709c8921a377d198ce3d29720aa4d106cf4c309cb665cc9bc02020c66bdb58",
+   "size": 1676
+  },
+  "kp/kp9609.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9609.tab",
+   "s3_etag": "82163cf5dd1b9df91d63a7b8ee937c1d",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "5284017383357ef16d17ca540486416ea6d82ca21079bcee28e8f1d0f3f9b6b7",
+   "size": 1626
+  },
+  "kp/kp9610.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9610.tab",
+   "s3_etag": "0b354c878952805f1561697a68408a35",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "d6b1eeee9340f728921d164bf76fd1921ffc260f7b198b001acd965adcf532ec",
+   "size": 1676
+  },
+  "kp/kp9611.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9611.tab",
+   "s3_etag": "727abeca395fe8cc1710f26a2446260a",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "f025b8c7c97500a3cfab18ccb11a79f15a8feaf7ccfce9cbfd196f705e22ae61",
+   "size": 1626
+  },
+  "kp/kp9612.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9612.tab",
+   "s3_etag": "704500544dd77ccd55f5d2a6a77a194c",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b2fbd1c449927e8589da77d78444954b2a2389a9205a0f6f1b9f07087c23f856",
+   "size": 1676
+  },
+  "kp/kp9701.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9701.tab",
+   "s3_etag": "ad8d662114ca26a8c9aa4829829ebced",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "023c821eb8bcb39559a4a5c44b2ef3d3cb8c9287af2216939e98f1ec19fca37f",
+   "size": 1676
+  },
+  "kp/kp9702.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9702.tab",
+   "s3_etag": "0197ac476a875bedbe830e4c5cfc5a21",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "1cc5e0ae89d1a8347e8370c27644c5389f2f2c74851e79ca96a793a0efc34895",
+   "size": 1526
+  },
+  "kp/kp9703.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9703.tab",
+   "s3_etag": "4df99e778783eb00088a6df8b6049629",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "4d63203c582b74ac8995c4d97b7d7df54f44cc65d187380ea70cb85efdb739c8",
+   "size": 1676
+  },
+  "kp/kp9704.tab": {
+   "downloaded_at": "2026-07-30T05:37:48+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9704.tab",
+   "s3_etag": "dff41ca1f52cfa456c96abf1b44d9167",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "7e434b2bc2e91b5c9e2bea83a7ba7a8589e4ab0279695b08ab66140ea21cd03c",
+   "size": 1626
+  },
+  "kp/kp9705.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9705.tab",
+   "s3_etag": "bfc2ff734f9f6fb65d295f2bc6f482c0",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "3172e228daaa50d3b6edcfb3ce13db820a6f81969e3f5e4b193b2d358b03c74a",
+   "size": 1676
+  },
+  "kp/kp9706.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9706.tab",
+   "s3_etag": "9cc1db38403d0e596bd06c0b3e6ae33f",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "98190b26a635f1d550bb6b1725fd563bc8221a0432ad705e95d3160374e75ab2",
+   "size": 1626
+  },
+  "kp/kp9707.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9707.tab",
+   "s3_etag": "566974854eb786bc9275c864f89091c3",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b9a9ae3c14c922dadd1a6733e3119455eaf2b5e3f87fc50b11f7df27bf7189b7",
+   "size": 1676
+  },
+  "kp/kp9708.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9708.tab",
+   "s3_etag": "119d551e7376605632fb3cc59e240821",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "57eae4ef067ac56ab7d9d72db1985e1ac7c6d4075bfae6233f2be686ca6c3944",
+   "size": 1676
+  },
+  "kp/kp9709.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9709.tab",
+   "s3_etag": "1023c68a79d99e6b109bc90faf16e1c7",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "12e18cde834801813eb5a2c54929fff4c4a510dbcaf788ecf44994d174b8e7d0",
+   "size": 1626
+  },
+  "kp/kp9710.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9710.tab",
+   "s3_etag": "8d870240cf60ba3ef77f2a6b9a1e1876",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "9e4fe59d23b68d4c2235bd902a5de34125a55ac24724f4265137c8881e5c55a2",
+   "size": 1676
+  },
+  "kp/kp9711.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9711.tab",
+   "s3_etag": "82ab1d233aae3d35d6b14de6f2fa3a03",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c749878da59dff90016e5d1cafe03ff2e820ad0e368d788722c407ef2ca0420e",
+   "size": 1626
+  },
+  "kp/kp9712.tab": {
+   "downloaded_at": "2026-07-30T05:37:49+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9712.tab",
+   "s3_etag": "e3aa14a6836c7d4da68f3a234c80f8c0",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "0739e8cb8c3bc7e0da2fc798a38fe0a42306270b62c761620d5a188b6a81dcb4",
+   "size": 1676
+  },
+  "kp/kp9801.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9801.tab",
+   "s3_etag": "01b7b56837940b20cae35dd6ae33c025",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "e8ff148f9a463bb4bed0228a38961aa8a7bbf358ee56454107fd8908d5326426",
+   "size": 1676
+  },
+  "kp/kp9802.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9802.tab",
+   "s3_etag": "d84a69bb2175a531761773b84cf09a66",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "0ed84e96c7e89f10d2a4cfb58d1cc9b617a1716fcc1d76da122310fd4f611031",
+   "size": 1526
+  },
+  "kp/kp9803.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9803.tab",
+   "s3_etag": "9a036bfe0ab074955eab366a4c3877df",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "8801ff65624f034abc57741fc704d8cc5b04e754abb79f6bc1bd0e1c6720dba6",
+   "size": 1676
+  },
+  "kp/kp9804.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9804.tab",
+   "s3_etag": "c71b79a1a24c2ab81cd99ff8f28453db",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "96a0eede9263208460a387641ec0eacdf7a6844bea724ca70337e0b5d710a7da",
+   "size": 1626
+  },
+  "kp/kp9805.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9805.tab",
+   "s3_etag": "61af1ea3cac92754cd3ae960dc6af9da",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "827d2eed8c54764f791b9ca760eaf2fcbcccc793681fe2d23d7e2ddf26a59c7d",
+   "size": 1676
+  },
+  "kp/kp9806.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9806.tab",
+   "s3_etag": "9eb28c0262b70aa9760cdf5bc5e5003c",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "5b07d09d1325d5f167aceb0645e0c9a11a251c6b132a4812ced43cc00a800c59",
+   "size": 1626
+  },
+  "kp/kp9807.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9807.tab",
+   "s3_etag": "31e58f7cacb6303d26e4b7dec3026272",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "c859a7c59b6f8ee8ded28be4e2200cde9597e3b0847c41a380d7c6f687510bc3",
+   "size": 1676
+  },
+  "kp/kp9808.tab": {
+   "downloaded_at": "2026-07-30T05:37:50+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9808.tab",
+   "s3_etag": "117ece7cdebc56e780f187bd9908ceb0",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "90800f3a21d63224e10bc844752563370b948819c4bad63336b1465a5d7b7610",
+   "size": 1676
+  },
+  "kp/kp9809.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9809.tab",
+   "s3_etag": "f00f39419fa0d47f539a40a7b694ed4c",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "28cc5d6d0b2f24fb7c759a5c9cef59d8e28b634d3653854fdbbbd320d53408b3",
+   "size": 1626
+  },
+  "kp/kp9810.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9810.tab",
+   "s3_etag": "665e265e9dd2ce2ac3d9cbec74aa970f",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "1dde9c15b53241ed263e1d26739c7be9c4df9b23c39da6b194985f9347ff4438",
+   "size": 1676
+  },
+  "kp/kp9811.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9811.tab",
+   "s3_etag": "ed902d2b29ab1b886283a21cf1576d15",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "d39085c371b162502622546cbd09624bdcf358797eaf688d89751ffbc391053a",
+   "size": 1626
+  },
+  "kp/kp9812.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9812.tab",
+   "s3_etag": "1e46cbebf9f7edac898adedbbd2686bc",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "3a292595a0676c773d4362ba839a6e638ce5e33fd2e09d87ae5fb479950e593f",
+   "size": 1676
+  },
+  "kp/kp9901.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9901.tab",
+   "s3_etag": "6f7b67868b686ce34a442944b73591ce",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "aa2d5ce2e35f1fbd35417918eb33a25b19f2a55f802dcff5aedd57a0feea0adf",
+   "size": 1676
+  },
+  "kp/kp9902.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9902.tab",
+   "s3_etag": "78e93dd536ab7798ca1b36e6c9c663b0",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "85a7daab69900e88ce03fc60f05cabaca9bffe1822d1afd6fb4334044205a270",
+   "size": 1526
+  },
+  "kp/kp9903.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9903.tab",
+   "s3_etag": "36758527b7089356ae0374b7b7ae4edf",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "8133f360dcd591d8b43f8cec6ae22acd3c4e91b4ad2ade4d5f7afc470faada3b",
+   "size": 1676
+  },
+  "kp/kp9904.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9904.tab",
+   "s3_etag": "614f564998999dc2cf20b54f8e618438",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "35152cdd2c9c340371f7e544aff7e076da01f99c0effd505038d66ca4c0a5ac6",
+   "size": 1626
+  },
+  "kp/kp9905.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9905.tab",
+   "s3_etag": "1336bf2620b45a7a0a06ebfba660f584",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "1a7237cc0cdb8b6057b7974d8a5ab16d90c90c993bf19fbc88416add878f8b1d",
+   "size": 1676
+  },
+  "kp/kp9906.tab": {
+   "downloaded_at": "2026-07-30T05:37:51+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9906.tab",
+   "s3_etag": "4d04df7e0b642acb99c437744c354baa",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "607f0d7c0217eb8e0189a9a171d08d2e2d29cb2f8fe0fe716da20266f16c59af",
+   "size": 1626
+  },
+  "kp/kp9907.tab": {
+   "downloaded_at": "2026-07-30T05:37:52+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9907.tab",
+   "s3_etag": "ce69cba320cd0b1205b63fa711f701eb",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "6100a92a00b0e1b34c94cb451be51f536175ef15fce20fb456dddbcf75d0a950",
+   "size": 1676
+  },
+  "kp/kp9908.tab": {
+   "downloaded_at": "2026-07-30T05:37:52+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9908.tab",
+   "s3_etag": "d64d6e16c7c2803a64017372bbe5324d",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "32b78a8288172fa982c0c893ae9099e2fa6df810afce56f80350b3764dd4d837",
+   "size": 1676
+  },
+  "kp/kp9909.tab": {
+   "downloaded_at": "2026-07-30T05:37:52+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9909.tab",
+   "s3_etag": "bfa6a35f6be956af3e33f7c91de05365",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "0dd647c9a1c64b04c9704cb30b612851eed030b923c0594633e18c40fec4be6a",
+   "size": 1626
+  },
+  "kp/kp9910.tab": {
+   "downloaded_at": "2026-07-30T05:37:52+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9910.tab",
+   "s3_etag": "d87170420e2a41b85849c9bcb0f7927e",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "7a6f719dba79e85bea49819e056668507bb8c385df61fe8f2ecd00e71d5336f9",
+   "size": 1676
+  },
+  "kp/kp9911.tab": {
+   "downloaded_at": "2026-07-30T05:37:52+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9911.tab",
+   "s3_etag": "8345f67cb4f7f40e5fe2f0e18ff4b5f4",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "d039d651978e838fd8d4f20fc5801b5c77ef4e2141c00237b691e5cb59663337",
+   "size": 1626
+  },
+  "kp/kp9912.tab": {
+   "downloaded_at": "2026-07-30T05:37:52+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp9912.tab",
+   "s3_etag": "105d95cf19d25b0ecd6438f4d2794a0e",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "2abc6a50801a29b7a03829dd393cbfa99f15cd7b8b57bd0b6977a233f52d2c5e",
+   "size": 1676
+  },
+  "kp/kp_potsdam.fits": {
+   "downloaded_at": "2026-07-30T05:37:53+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/kp_potsdam.fits",
+   "s3_etag": "0bbbd3104e601575517dccd7919c5171",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "b17323c69cfd621833e8e239e90694515b2bf45a7287b861909ed123bc23be94",
+   "size": 1082880
+  },
+  "kp/noaa_three_day.txt": {
+   "downloaded_at": "2026-07-30T05:37:53+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp/noaa_three_day.txt",
+   "s3_etag": "dcbc2d6c865b0ad147df46ca32d2e94e",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "4704439a1cc0ffc92c8e4fd0252ed06fc1cb0d8bdc3489c1e5653bfdb73a6a0b",
+   "size": 1884
+  },
+  "kp_noaa.fits": {
+   "downloaded_at": "2026-07-30T05:37:54+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp_noaa.fits",
+   "s3_etag": "16fddc47b881083378eb9347802c6eba",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "f87de1ccefa83787c46c46a4ad8642bbdfd9c97e69dd4a58ae2ecd5ee39ae465",
+   "size": 3041280
+  },
+  "kp_potsdam.fits": {
+   "downloaded_at": "2026-07-30T05:37:54+0530",
+   "key": "caldb/data/gen/pcf/geomag/kp_potsdam.fits",
+   "s3_etag": "0bbbd3104e601575517dccd7919c5171",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "b17323c69cfd621833e8e239e90694515b2bf45a7287b861909ed123bc23be94",
+   "size": 1082880
+  },
+  "solarphi/geant.pem": {
+   "downloaded_at": "2026-07-30T05:37:53+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/geant.pem",
+   "s3_etag": "b2fe948caaccd3931026ea7c5e7924d8",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "37362ea1ea5eacef9d37cce8ba0258a9a83762b28ad99b77cbe101ccb22ac890",
+   "size": 2490
+  },
+  "solarphi/index.html": {
+   "downloaded_at": "2026-07-30T05:37:53+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/index.html",
+   "s3_etag": "978d8ea93c4937a279bfc64a9677f0ef",
+   "s3_last_modified": "2023-09-15T15:16:10.000Z",
+   "sha256": "50c2ecf7f9d56e47e8ce5787383f1402d759f65f0434dd825482eede76e62418",
+   "size": 18636
+  },
+  "solarphi/oulu.html": {
+   "downloaded_at": "2026-07-30T05:37:53+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/oulu.html",
+   "s3_etag": "3e4cdc29ea79cc06bc6dfeb8fd76128e",
+   "s3_last_modified": "2023-09-15T15:16:09.000Z",
+   "sha256": "b791b18276c1379b88de66b284dfb588caf0980a6bb05ee68a460addaefa2b96",
+   "size": 18108
+  },
+  "solarphi/phi/Phi_Table_2017.txt": {
+   "downloaded_at": "2026-07-30T05:37:53+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/phi/Phi_Table_2017.txt",
+   "s3_etag": "ec6340f735ac32db4c65b5759ee09b00",
+   "s3_last_modified": "2025-04-12T05:01:55.000Z",
+   "sha256": "8b5839f374b6f760f9cd10bfd6e627a2abc60c4c99483f42de920de10a82d6ed",
+   "size": 12334
+  },
+  "solarphi/phi/Phi_mon.txt": {
+   "downloaded_at": "2026-07-30T05:37:53+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/phi/Phi_mon.txt",
+   "s3_etag": "3464f5ad1a0993bc1204d8189d38db0c",
+   "s3_last_modified": "2025-04-12T05:01:55.000Z",
+   "sha256": "79292477240f60a41d64621d59eaa87230348f5c4c23b60145fe1f81ba976ce1",
+   "size": 9066
+  },
+  "solarphi/phi/Phi_mon_2017.txt": {
+   "downloaded_at": "2026-07-30T05:37:54+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/phi/Phi_mon_2017.txt",
+   "s3_etag": "d9d611c36ed9deeaa2d388667758383a",
+   "s3_last_modified": "2025-04-12T05:01:55.000Z",
+   "sha256": "b2c0abea605fdd2fe14ed326630de995f71385026a04406511a69bbe82757c84",
+   "size": 29820
+  },
+  "solarphi/phi/Phi_mon_tab.txt": {
+   "downloaded_at": "2026-07-30T05:37:54+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/phi/Phi_mon_tab.txt",
+   "s3_etag": "a51ca42776365e316a70350aaae869ab",
+   "s3_last_modified": "2025-04-12T05:01:55.000Z",
+   "sha256": "0574f63218f63ff6e63860ce528a8b1a7f4ed88bb935dc21fa0550b62279bf90",
+   "size": 18455
+  },
+  "solarphi/solarphi_def.txt": {
+   "downloaded_at": "2026-07-30T05:37:54+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/solarphi_def.txt",
+   "s3_etag": "d9d611c36ed9deeaa2d388667758383a",
+   "s3_last_modified": "2025-04-12T05:01:55.000Z",
+   "sha256": "b2c0abea605fdd2fe14ed326630de995f71385026a04406511a69bbe82757c84",
+   "size": 29820
+  },
+  "solarphi/solarphi_oulu.fits": {
+   "downloaded_at": "2026-07-30T05:37:55+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/solarphi_oulu.fits",
+   "s3_etag": "5b5bbcef7b356cec9796676f40ae8c14",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "9f67a60ad18ae877c13d063bc97bebad4ce0926d51a84f73fca05ddcdd5f054a",
+   "size": 155520
+  },
+  "solarphi/solarphi_oulu.txt": {
+   "downloaded_at": "2026-07-30T05:37:56+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/solarphi_oulu.txt",
+   "s3_etag": "1c4ab31514c8eed112675e334a4b188e",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "51ef1a151d48551053056cd21383b3f2f2f5f89681160322f50e9f4ec69de92b",
+   "size": 240771
+  },
+  "solarphi/solarphi_rt.txt": {
+   "downloaded_at": "2026-07-30T05:37:55+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/solarphi_rt.txt",
+   "s3_etag": "2ab8120213c6b7d1adbad675743e7a33",
+   "s3_last_modified": "2025-07-26T05:01:30.000Z",
+   "sha256": "3cc59e618a88c72a3cc27b14004ecab2110285d8f3c9ab82e8c97681deea0914",
+   "size": 48547
+  },
+  "solarphi/solarphi_rt_old.txt": {
+   "downloaded_at": "2026-07-30T05:37:56+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/solarphi_rt_old.txt",
+   "s3_etag": "5ffa41d556dd49a8723c8ee30024f8f2",
+   "s3_last_modified": "2024-11-02T05:01:07.000Z",
+   "sha256": "0a423b349977af640c5e87808b12ba11d21b2d0d6ec01cf48a988d9a937eee01",
+   "size": 529474
+  },
+  "solarphi/tmp/solarphi_def.txt": {
+   "downloaded_at": "2026-07-30T05:37:55+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/tmp/solarphi_def.txt",
+   "s3_etag": "7a4c05be90dc992c012c992a63b5c8c4",
+   "s3_last_modified": "2024-10-26T05:01:10.000Z",
+   "sha256": "e3d54cf0a30cd467c925c6f5403f983ee1775a3b205e6693b4334884ec5ca432",
+   "size": 29724
+  },
+  "solarphi/tmp/solarphi_oulu.fits": {
+   "downloaded_at": "2026-07-30T05:37:56+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/tmp/solarphi_oulu.fits",
+   "s3_etag": "78c1c50c69331ae9b5a88116bfc8c0c6",
+   "s3_last_modified": "2024-11-02T05:01:08.000Z",
+   "sha256": "9b47874ee83ae6cb4d30d44416c3ba2bdee54414d470a766494930c09d7344de",
+   "size": 152640
+  },
+  "solarphi/tmp/solarphi_oulu.txt": {
+   "downloaded_at": "2026-07-30T05:37:56+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/tmp/solarphi_oulu.txt",
+   "s3_etag": "575105f0b3bd5589ed4d12a11b07b4fa",
+   "s3_last_modified": "2024-11-02T05:01:07.000Z",
+   "sha256": "d3f99aaee8138b64c46ffe2e0770ce74d36434bb7fc0917fe9c15bb5fd95a54b",
+   "size": 235320
+  },
+  "solarphi/tmp/solarphi_rt.txt": {
+   "downloaded_at": "2026-07-30T05:37:56+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/tmp/solarphi_rt.txt",
+   "s3_etag": "121453301348d0ae45ea0317cf462dd9",
+   "s3_last_modified": "2024-11-02T05:01:07.000Z",
+   "sha256": "ecc1c1f080010e9a87712e86aae1bbf0ec5c9f5ac8897396b9c7fa9e5c0223b7",
+   "size": 34624
+  },
+  "solarphi/tmp/solarphi_rt_old.txt": {
+   "downloaded_at": "2026-07-30T05:37:57+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi/tmp/solarphi_rt_old.txt",
+   "s3_etag": "5ffa41d556dd49a8723c8ee30024f8f2",
+   "s3_last_modified": "2024-10-26T05:01:11.000Z",
+   "sha256": "0a423b349977af640c5e87808b12ba11d21b2d0d6ec01cf48a988d9a937eee01",
+   "size": 529474
+  },
+  "solarphi_oulu.fits": {
+   "downloaded_at": "2026-07-30T05:37:57+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi_oulu.fits",
+   "s3_etag": "5b5bbcef7b356cec9796676f40ae8c14",
+   "s3_last_modified": "2026-07-25T05:01:58.000Z",
+   "sha256": "9f67a60ad18ae877c13d063bc97bebad4ce0926d51a84f73fca05ddcdd5f054a",
+   "size": 155520
+  },
+  "solarphi_oulu_current.fits": {
+   "downloaded_at": "2026-07-30T05:37:57+0530",
+   "key": "caldb/data/gen/pcf/geomag/solarphi_oulu_current.fits",
+   "s3_etag": "1c4052839ea4547519601b274f503e35",
+   "s3_last_modified": "2024-10-26T05:01:11.000Z",
+   "sha256": "b99d4985be80ab8c6b8f04f0ad97e4e1404e9b60bbc229cda4899573ebbaf1bc",
+   "size": 149760
+  }
+ },
+ "prefix": "caldb/data/gen/pcf/geomag/"
+}

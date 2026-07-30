@@ -1,0 +1,13 @@
+{
+ "source": "https://heasarc.gsfc.nasa.gov/FTP/caldb/data/nicer/xti/goodfiles_nicer_xti_20240206.tar.gz",
+ "caldb_version": "xti20240206",
+ "sha256": "572954c8126746f2c3bd9039ef3c1bd5ab216dfd0aab30988201c0442f55c22d",
+ "size": 112180364,
+ "upstream_last_modified": "2024-02-27T16:27:38Z",
+ "downloaded_at": "2026-07-30T06:21:13+0530",
+ "config_files": [
+  "software/tools/caldb.config",
+  "software/tools/alias_config.fits"
+ ],
+ "extracted_to": "data/nicer/xti/"
+}

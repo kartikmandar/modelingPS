@@ -4,4 +4,6 @@ __pycache__/
 .pixi/
 docs/
 outputs/current/plots/
+# symlink to bulk NICER data on the external SSD
+data/nicer
 .claude/settings.local.json
